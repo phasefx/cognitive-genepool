@@ -16,27 +16,16 @@ The original Cognitive Genepool started as an ADHD-fueled bullet list of framewo
 
 ## What This Is Not
 
+This SRD is **not**:
+- a universal ontology (it’s a lens you can put down)
+- a diagnostic manual (use it to generate hypotheses, not labels)
+- a substitute for therapy, medicine, governance, or measurement
+- permission to anthropomorphize away accountability
+- a license to “explain everything” after the fact
+
+Use it to get **leverage**. If it doesn’t change predictions or actions, treat it as decoration and swap frames.
 
 ## Glossary (SRD Terms)
-
-
-## The One-Page Procedure (DM Screen)
-
-When something feels “stuck”:
-
-1. **Locate the loop:** What repeats? What’s the reward/punishment signal?
-2. **Identify regime:** What constraints make this pattern stable right now?
-3. **Run triad mapping:** Encode / Decode / Act → then Inscription, Selection.
-4. **Choose leverage type:**
-   - **World-change:** change cues, friction, channels, incentives.
-   - **Map-change:** change salience, framing, interpretation, attention.
-   - **Goal-change:** change success metrics, needs, priorities.
-5. **Run the persuadability check:** is this steerable by information, incentives, or only redesign?
-6. **Ship a minimum intervention:** smallest change that should flip a prediction.
-7. **Observe inscriptions:** what new traces did the intervention lay down?
-8. **Escalate:** if the monster persists, redesign substrate or exit the dungeon.
-
-Use these **operationally**. If you can’t point to what would change in behavior, you’re doing poetry.
 
 - **Agent:** A system that can be usefully modeled as pursuing outcomes across time via feedback (see Minimum Agency Test).
 - **Frame:** A control-relevant interpretation of the world: what’s salient, what actions exist, what counts as success.
@@ -55,15 +44,23 @@ Use these **operationally**. If you can’t point to what would change in behavi
 - **System 2a** (real-time) = interrupts & coordination
 - **System 2b** (post-hoc) = cartography & inscription
 
-This SRD is **not**:
-- a universal ontology (it’s a lens you can put down)
-- a diagnostic manual (use it to generate hypotheses, not labels)
-- a substitute for therapy, medicine, governance, or measurement
-- permission to anthropomorphize away accountability
-- a license to “explain everything” after the fact
+## The One-Page Procedure (DM Screen)
 
-Use it to get **leverage**. If it doesn’t change predictions or actions, treat it as decoration and swap frames.
+When something feels “stuck”:
 
+1. **Locate the loop:** What repeats? What’s the reward/punishment signal?
+2. **Identify regime:** What constraints make this pattern stable right now?
+3. **Run triad mapping:** Encode / Decode / Act → then Inscription, Selection.
+4. **Choose leverage type:**
+   - **World-change:** change cues, friction, channels, incentives.
+   - **Map-change:** change salience, framing, interpretation, attention.
+   - **Goal-change:** change success metrics, needs, priorities.
+5. **Run the persuadability check:** is this steerable by information, incentives, or only redesign?
+6. **Ship a minimum intervention:** smallest change that should flip a prediction.
+7. **Observe inscriptions:** what new traces did the intervention lay down?
+8. **Escalate:** if the monster persists, redesign substrate or exit the dungeon.
+
+Use these **operationally**. If you can’t point to what would change in behavior, you’re doing poetry.
 
 ## A Distillation
 
