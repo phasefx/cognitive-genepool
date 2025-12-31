@@ -91,7 +91,7 @@ The D\&D theme is not me being cute (well, it's not *just* that). It ties into m
 
 ## What to expect?
 
-**The SRD: System Reference Document** 
+**The SRD: System Reference Document**  
 This is the most concise version of the mechanics for the framework, with fewer D&D trappings. It is for the Wizards and Artificers who don't need the narratives.
 
 **Artifacts:**
@@ -101,7 +101,7 @@ This is the most concise version of the mechanics for the framework, with fewer 
 * Monster Cards (Failure Mode Patterns)
 * DM Tools (Intervention Procedures)
 
-**The Contributer's Guide**
+**The Contributer's Guide**  
 This is a field guide; you're meant to add to it. There are no rules for how to do that, but we do have some advice, particularly if you're contributing back to the project.
 
 **Artifacts:**
