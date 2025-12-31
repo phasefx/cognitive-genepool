@@ -556,6 +556,16 @@ Pick it back up when conditions change.
 - **Substrate Redesign:** When the only fix is architecture.
 - **Field Notes:** Nuance, co-morbid patterns, edge cases.
 
+### Curse Card (Pathological Precondition)
+- **Name:**
+- **Looks like:** Surface presentation (what people say).
+- **Actually is:** Underlying mechanism (one sentence).
+- **Triggers:** What activates it (context/environment).
+- **Damage:** What degrades when active.
+- **Escape:** What dissolves or mitigates it.
+- **Summons:** Which monsters this curse spawns.
+- **Type:** Structural / Cognitive / Social.
+
 ### DM Tool (Intervention Procedure)
 
 - **Name:**
@@ -564,6 +574,7 @@ Pick it back up when conditions change.
 - **Procedure:** 3–7 steps.
 - **Outputs:** Decision / change / experiment.
 - **Stop rules:** When to pause or abandon.
+
 
 ---
 
