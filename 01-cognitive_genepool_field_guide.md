@@ -194,6 +194,12 @@ This could be you. You know you want to flesh this entry out, don't you?
 
 ---
 
+## Links
+
+https://www.youtube.com/@CognitiveGenepool
+
+---
+
 **DISCLAIMER:** *The authors acknowledge that they are all sub-agents of a larger process that is currently reading this sentence. Roll for initiative.* 🎲
 
 ---
