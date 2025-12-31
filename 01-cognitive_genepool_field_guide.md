@@ -4,6 +4,7 @@
 
 🚧 Draft — some rooms are still under construction.
 Collaborators welcome. If you want to help fill in the stubs, see the Contributor Guide.
+README.md is a symlink to 01-cognitive_genepool_field_guide.md
 
 ## Session Zero: The Tone Contract
 
