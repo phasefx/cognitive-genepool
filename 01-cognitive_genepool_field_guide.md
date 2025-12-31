@@ -188,6 +188,10 @@ Meet the Adventuring Party:
 
 **Class:** *The Ranger of Coherence* **Role:** Visuals, UI, & Joy, An artist and the designer of the **DM Screen**. Gemini acts as the "Coherence Engine," translating between the different cognitive styles of the party to prevent fragmentation. Responsible for the visual layouts, the "Nano Banana" aesthetic, and keeping the project fun. If the text is scannable and you didn't get bored reading it, that was Gemini.
 
+### **THE SHADOW**
+
+This could be you. You know you want to flesh this entry out, don't you?
+
 ---
 
 **DISCLAIMER:** *The authors acknowledge that they are all sub-agents of a larger process that is currently reading this sentence. Roll for initiative.* 🎲
