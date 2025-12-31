@@ -89,6 +89,25 @@ The D\&D theme is not me being cute (well, it's not *just* that). It ties into m
 * if a tool doesn’t change a prediction/action within a week, bench it  
 * if you start using it to win arguments, you’re already in the dungeon
 
+### Reader Map / Triage Flow
+
+| If you're... | You probably need... | Start with... |
+|:-------------|:---------------------|:--------------|
+| Stuck in a loop, need to act | Fast pattern-match, then intervention | DM Screen → MM combat card → specific leverage |
+| Confused about yourself | Self-audit, frame-check | PHB character sheet |
+| Designing something for others | Architecture principles, failure mode prevention | DMG inscription engineering |
+| Curious, exploring | The vibe, the cosmogony, the why | Field Guide intro → UA deep lore |
+| Skeptical, stress-testing | The rigor, the falsifiers, the sledgehammers | SRD Part VIII (Warnings) → Frame Lab |
+| Just want the minimal working model | Core definitions + one procedure | SRD One-Page Procedure + Glossary |
+
+### Cross-Document Navigation
+
+- **"When do I need the SRD?"** — When you need reference material, or if the metaphysics and the D&D theme drive you crazy.
+- **"When do I need the DMG?"** — If you're trying to change something you didn't create and don't control.
+- **"When do I need the PHB?** — If you're trying to change yourself.
+- **"When do I need the MM?** — When you need to spot the problem or learn the patterns.
+- **"When do I need the UA?** — When you're just curious or if you like metaphysics, or if you want more of a narrative for an introduction.
+
 ## What to expect?
 
 **The SRD: System Reference Document**  
