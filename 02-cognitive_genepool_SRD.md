@@ -136,7 +136,7 @@ Levin note: Agency detection is also a test of the observer. Both over- and unde
 
 The **felt shape of the decoded affordance landscape**—the invitations, resistances, salience gradients, and "can/can't" surfaces a frame presents from the inside.
 
-Not mystical in this SRD. Control-relevant. What navigation feels like to a system that must navigate.
+Not mystical in this SRD. Control-relevant. What navigation feels like to a system that must navigate. This is the dashboard.
 
 ### Inscription
 
