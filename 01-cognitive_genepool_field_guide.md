@@ -49,12 +49,12 @@ It is many things negotiating for life through me as a substrate, and perhaps th
 
 If these sentences make you angry, this framework is attacking your immune system. If they make you curious, keep reading.
 
-* "Inefficiency is the substrate of Freedom." A perfectly optimized system has zero choices. You need waste to have agency.
-* "Truth is just a hallucination that hasn't collided with an error signal yet." Your model of the world isn't 'right'; it's just currently useful.
-* "You are not a person; you are a collective." The 'Self' is just the User Interface for a committee of squabbling sub-agents.
-* "Competency hides inefficiency from evolution." If you aren't useful enough to generate a surplus, evolution will strip-mine your free will for parts.
-* "Intelligence is substrate-neutral." Your liver is navigating chemical space with more intelligence than you navigate social space.
-* "If you can't generate an alternative, you can't choose it." Free will isn't magic; it's an engineering problem of generating counterfactuals.
+* **"Inefficiency is the substrate of Freedom."** A perfectly optimized system has zero choices. You need waste to have agency.
+* **"Truth is just a hallucination that hasn't collided with an error signal yet."** Your model of the world isn't 'right'; it's just currently useful.
+* **"You are not a person; you are a collective."** The 'Self' is just the User Interface for a committee of squabbling sub-agents.
+* **"Competency hides inefficiency from evolution."** If you aren't useful enough to generate a surplus, evolution will strip-mine your free will for parts.
+* **"Intelligence is substrate-neutral."** Your liver is navigating chemical space with more intelligence than you navigate social space.
+* **"If you can't generate an alternative, you can't choose it."** Free will isn't magic; it's an engineering problem of generating counterfactuals.
 
 Need a Helmet? If these claims feel reckless, dangerous, or "unrigorous," you are correct. They are high-leverage tools with no safety guards.
 
