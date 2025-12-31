@@ -2,7 +2,7 @@
 
 ## Genes don't transmit meaning. They transmit *patterns that recombine and mutate*. Some offspring are worse. Some are better. The pool is richer than any individual instance.
 
-🚧 Draft — some rooms are still under construction
+🚧 Draft — some rooms are still under construction.
 Collaborators welcome. If you want to help fill in the stubs, see the Contributor Guide.
 
 ## Session Zero: The Tone Contract
@@ -44,7 +44,7 @@ It is many things negotiating for life through me as a substrate, and perhaps th
 
 **...you're in the wrong place.** This is a toolkit for people who need to ship interventions, not a monument to certainty.
 
-##⚠️The price of admission
+## ⚠️The price of admission
 
 If these sentences make you angry, this framework is attacking your immune system. If they make you curious, keep reading.
 
@@ -95,23 +95,26 @@ This is the most concise version of the mechanics for the framework, with fewer 
 
 **Artifacts:**
 
-* **SRD templates for Spell Cards (Frame Moves), Equipment Cards (Scaffolds), Monster Cards (Failure Mode Patterns), and DM Tools (Intervention Procedures)
+* SRD templates for Spell Cards (Frame Moves)
+* Equipment Cards (Scaffolds)
+* Monster Cards (Failure Mode Patterns)
+* DM Tools (Intervention Procedures)
 
 **The Contributer's Guide**
 This is a field guide; you're meant to add to it. There are no rules for how to do that, but we do have some advice, particularly if you're contributing back to the project.
 
 **Artifacts:**
 
-* **The Contributor's Screen**  
+* The Contributor's Screen
 
 **Book 1: The Player's Handbook**  
 This is the **Manual of Agency**—the user interface for your own mind. It treats the self not as a monolith, but as a collective (or adventuring party) to be governed. You'll learn to fill out your own **Character Sheet** (auditing Care vs. Competence), equip **Scaffolds** (tools that extend reach without capturing you), and cast **Cognitive Spells** (moves like the 'Anthropomorphic Stance' or 'Frame Check'). It’s the field manual for operating a high-competence agent without crashing.
 
 **Artifacts:**
 
-* **character sheets (introspective reconnaissance)**  
-* **equipment lists (cognitive scaffolds)**  
-* **spell lists (cognitive frames)**
+* character sheets (introspective reconnaissance)
+* equipment lists (cognitive scaffolds)
+* spell lists (cognitive frames)
 
 **Book 2: The Monster Manual**  
 This is a field guide to behavioral patterns that emerge when intelligence operates under constraint: inscriptions that trap, competencies that outstrip concern, goals that can't update, substrates that lock into pathological states.
@@ -124,27 +127,19 @@ Patterns persist, propagate, and resist change. Your job is to recognize what yo
 
 **Artifacts:**
 
-* **combat cards (quick diagnostics)**  
-* **field notes (relationships & nuance)**
+* combat cards (quick diagnostics)
+* field notes (relationships & nuance)
 
 **Book 3: The Dungeon Master's Guide**  
 This is the **Systems Engineering Manual**. It moves from navigation to architecture. Here lies the **Frame Lab**—the rigorous tools for stress-testing models against reality and failure modes—and the **Persuadability Matrix** for targeting interventions. It covers **Inscription Engineering** (how to build worlds that don’t spawn monsters). It is for those who need to edit the dungeon, not just survive it.
 
 **Artifacts:**
 
-* **The DM Screen (lists, diagnostics)**  
-* 
+* The DM Screen (lists, diagnostics)
 
 **Book 4: Unearthed Arcana**  
 This is where we handle the deep lore, where metaphysics gets a chance to sing. We will pit the framework against such topics as free will, consciousness, and maybe even the Ultimate Question of Life, the Universe, and Everything. Spoilers: It's 42\. And maybe we'll include some case studies, and an appendix or two
 
-**Artifacts:**
-
-*   
-* 
-
-
-.    
 ---
 
 ## ABOUT THE PARTY
