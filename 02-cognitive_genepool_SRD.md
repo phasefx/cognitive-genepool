@@ -233,6 +233,8 @@ This is why polycomputing is the default, not the exception.
 
 A **Cognitive Light cone** represents the spatiotemporal horizon of a system's concern—the largest goal-scale it can meaningfully model and work toward. It defines the boundary of what the system *cares* about. Cone geometry is descriptive, not law-like; boundaries are fuzzy, contingent, and interface-dependent.
 
+> **_NOTE:_** Cone expansion is not inherently good. Fit between cone, competence, and environment is what matters.
+
 ### The Diagnostic Pair
 
 To understand a system's behavior, we compare two distinct properties:
