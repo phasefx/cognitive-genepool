@@ -430,6 +430,7 @@ We can unbundle "freedom" into specific, trainable system capacities:
 1. **Frame Awareness:** The ability to inspect the current frame (UI) rather than just looking through it.  
 2. **Frame Fluency:** The capacity to unbind from the current frame and select a different one when error signals rise.  
 3. **Plasticity:** The degree to which Inscription (Π) can be overwritten by new learning.
+4. **Lightcone Scope:** The boundary of what you care about (see Part III). Unlike Frame Fluency (relatively trainable), lightcone scope is deeply inscribed and expensive to change—it's goal-level, not method-level. Expanding concern without matched competency creates suffering, not freedom.
 
 **Constraint is the substrate of freedom.** Without finite constraints, no choice is meaningful. Agency lives in the capacity to navigate constraints, not the absence of them.
 
