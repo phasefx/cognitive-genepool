@@ -37,7 +37,7 @@ Use it to get **leverage**. If it doesn’t change predictions or actions, treat
 - **Selection:** Which loops persist/propagate because they have causal leverage (fitness in context, not moral worth).
 - **Substrate:** The physical/social/technical medium that constrains possible regimes (brains, teams, markets, code).
 - **Persuadability:** How much/where a system can be steered by information, incentives, or structure.
-- **Lightcone (Cognitive):** The space of states a system can reach, influence, and model—given its substrate and regime.
+- **Lightcone (Cognitive):** The boundary of what a system *cares about*—the largest goal-scale it can meaningfully model and work toward. Paired with **Competency** for diagnosis (see Part III). Not the same as perception range. The lightcone shines through conceptual/problem space.
 
 **System 1 and System 2** We re-purpose Kahneman's System 1/System 2 distinction into roles system components can adopt in relation to each other. The same System 2 in one collective could be a System 1 in another.
 - **System 1** = policy continuation / autopilot
