@@ -1,3 +1,5 @@
+https://youtu.be/_gjYcA0emqw
+
 This descriptive transcript is designed for maximum accessibility, combining the visual context with the spoken narrative. Timestamps are placed only at the start of each new slide to reduce clutter for braille and screen reader users while still allowing for easy navigation.
 
 [00:00]
