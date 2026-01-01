@@ -2,10 +2,10 @@
 
 ## This Is Not a Game
 
-The D&D language is here for two reasons:
+The D&D language is here for a few reasons:
 
 1. **Vibes:** It makes self-examination feel less clinical and more approachable.
-2. **Intentional Stance:** It lets you treat internal processes *as if* they have goals, which makes negotiation possible.
+2. **Leverage:** Metaphors compress patterns into handles. "Summon the Paladin" is easier to act on than "increase commitment via executive function." The intentional stance lets you negotiate with processes as if they have goals.
 
 What it's **not** for:
 
