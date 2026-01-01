@@ -37,7 +37,9 @@ Use it to get **leverage**. If it doesn’t change predictions or actions, treat
 - **Selection:** Which loops persist/propagate because they have causal leverage (fitness in context, not moral worth).
 - **Substrate:** The physical/social/technical medium that constrains possible regimes (brains, teams, markets, code).
 - **Persuadability:** How much/where a system can be steered by information, incentives, or structure.
-- **Light cone (Cognitive):** The boundary of what a system *cares about*—the largest goal-scale it can meaningfully model and work toward. Paired with **Competency** for diagnosis (see Part III). Not the same as perception range. The light cone shines through conceptual/problem space.
+- **Light cone (Cognitive):** The boundary of what a system *cares about*—the largest goal-scale it can meaningfully model and work toward. Paired with **Competency** for diagnosis (see Part III). Not the same as perception range. The light cone shines through conceptual/problem space, carving the region of possibilities the system can meaningfully care about and act within.
+
+> **Note:** In Levin’s framework, cognitive light cones implicitly assume sufficient competence for control; this project separates care (cone scope) from competence (navigation capacity) to make mismatches diagnosable and interventions targetable.
 
 **System 1 and System 2** We re-purpose Kahneman's System 1/System 2 distinction into roles system components can adopt in relation to each other. The same System 2 in one collective could be a System 1 in another.
 - **System 1** = policy continuation / autopilot
