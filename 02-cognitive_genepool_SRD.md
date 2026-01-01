@@ -244,6 +244,8 @@ When concern exceeds competency, you get **impotence**—seeing problems you can
 
 When competency exceeds concern, you get **optimization without wisdom**—solving problems without caring about effects beyond the goal. The Berserker.
 
+**Note:** Lightcone scope is relatively stable—it's inscribed, not fluid. Expanding what you care about is goal-level change: expensive, slow, and often requiring external forcing functions or substrate-level intervention. "Just care more broadly" is not a free move. Expanding concern without expanding competency creates suffering (Cassandra), not freedom.
+
 ### Archetypes
 
 Rather than fixed identities, think of these as **modes**—patterns a system can be performing:
