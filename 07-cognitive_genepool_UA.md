@@ -2,13 +2,11 @@
 
 ## Contents
 
-0. Session Zero
+0\. Session Zero
 
-1. Appendices & Reference
-
-Curses
-
-Alternate Entry Points
+1\. Appendices & Reference
+* Curses
+* Alternate Entry Points
 - The Tour Pamphlet (narrative arc)  
 - The Alternative Quickstart (Q1-Q9)  
 - Domain Translations (Sidebars)  
@@ -17,26 +15,21 @@ Alternate Entry Points
   - For the biologist  
   - For the physicist  
   - For the psychologist
-
-Case Studies & Sidebars
+* Case Studies & Sidebars
   - **SALVAGE: "The Call From Inside the House"** ← *the NotebookLM capture incident, preserved as methodology*  
   - The Dogs (cognitive pidgin worked example)  
   - Cancer Diplomacy  
   - Smoker vs. Health (internal Cassandra)
-
-Deep Lore
+* Deep Lore
   - Free Will as Frame Fluency
   - Discernment *DRAFT*
-
-Reference
+* Reference
   - Glossary (common terms vs. "in this doc" terms)  
   - People Pilfered From  
-
-Hazardous Material
+* Hazardous Material
   - Interpreter Guidance (for LLMs / summarizers)  
   - Auditor Guidance (for rigor-mode)
-
-Scratchpad / Open Questions
+* Scratchpad / Open Questions
   - Where the broken lightcone extensions went  
   - Unresolved tensions (acknowledged, bracketed)  
   - Ideas in orbit
