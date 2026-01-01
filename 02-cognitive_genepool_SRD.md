@@ -231,7 +231,7 @@ This is why polycomputing is the default, not the exception.
 
 ### The Core Concept (Levin)
 
-A **Cognitive Light cone** represents the spatiotemporal horizon of a system's concern—the largest goal-scale it can meaningfully model and work toward. It defines the boundary of what the system *cares* about.
+A **Cognitive Light cone** represents the spatiotemporal horizon of a system's concern—the largest goal-scale it can meaningfully model and work toward. It defines the boundary of what the system *cares* about. Cone geometry is descriptive, not law-like; boundaries are fuzzy, contingent, and interface-dependent.
 
 ### The Diagnostic Pair
 
