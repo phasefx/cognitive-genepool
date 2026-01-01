@@ -2485,7 +2485,8 @@ Like its biological namesake, this Appendix is often mistaken for a useless evol
 
 When a cognitive system suffers a catastrophic failure (a "dysentery" of the mind, where meaning collapses and monsters take over), the microbiome of the self is wiped out. To recover, you need a reservoir of healthy archetypes to re-seed the system.
 
-This section contains the **Taxonomy of the Planes**—the ancestral forms of the monsters you fight. These are the "Good Bacteria." They show what these patterns look like when they are healthy, before they become inflamed.
+This section contains the Taxonomy of the Planes—the ancestral forms of the monsters you fight.
+In some planes, these include explicit healthy operating regimes (“Good Bacteria”); in others, the emphasis is on how and why those regimes collapse into monsters.
 
 ---
 
