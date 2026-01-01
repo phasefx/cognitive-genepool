@@ -558,7 +558,8 @@ Free will, if it exists, **lives in the gap between choice and affordance**. Mor
 * Meta-cognitive skill to recognize when a shift is needed  
 * Low enough inscription that the old frame doesn't just snap back
 
-**Light cone scope**: how much of the causal landscape you're representing. A wider light cone means more affordances are visible, more futures can be weighted, more constraints can be navigated. This is what "seeing options" actually is—not accessing some menu outside causation, but rendering more of the possibility space.
+**Light cone scope**: how much of the goal-relevant causal landscape a system can represent, be stressed by, and act to influence.
+A wider light cone allows more futures to be weighted and more constraints to be navigated—not by escaping causation, but by rendering a larger portion of the possibility space into actionable affordances.
 
 **Inscription depth**: how thoroughly your current frames have been written into substrate—neural, social, environmental. Deep inscription means high path-dependence; shallow inscription means more pivot capacity.
 
