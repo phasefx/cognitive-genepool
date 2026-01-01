@@ -64,19 +64,115 @@ This material is "Sticky." It feels like secret knowledge.
 ## 1\. Appendices & Reference
 
 ### Curses
+#### Curses vs. Monsters
 
-Monsters are stable pathological attractors.
-Curses are conditions that bias systems toward those attractors.
+**Monsters** are stable pathological attractors — patterns a system performs.  
+**Curses** are conditions that bias systems toward those attractors — the weather that makes monsters more likely.
 
 Mnemonic:
-    Disease vs risk factor
-    Process vs field
+- Disease vs. risk factor
+- Process vs. field
+- Pattern vs. precondition
 
-Structural curses: Scarcity, Fragmentation, Lock-in
-Cognitive curses: Physics Leakage, False Bedrock
-Social curses: External Pressure, Audience Capture
+---
 
-### ☠️ Curse: Scarcity
+#### Curse Card Template
+
+```markdown
+### ☠️ Curse: [Name]
+
+**Looks like:**  
+[Surface presentation — what people say, what it feels like]
+
+**Actually is:**  
+[Underlying mechanism — one sentence]
+
+**Common triggers:**
+- [Trigger 1]
+- [Trigger 2]
+- [Trigger 3]
+
+**Typical damage:**
+- [Damage 1]
+- [Damage 2]
+- [Damage 3]
+
+**Escape condition:**
+- [Escape 1]
+- [Escape 2]
+- [Escape 3]
+
+**Monsters summoned:**
+- [Monster 1] — [brief note on relationship]
+- [Monster 2] — [brief note on relationship]
+
+**Curse type:** [Structural / Cognitive / Social]
+```
+
+---
+
+#### Field Definitions
+
+| Field | Purpose |
+|:------|:--------|
+| **Looks like** | Surface signals; what people say; the felt sense |
+| **Actually is** | The mechanism in one sentence |
+| **Common triggers** | Environmental/contextual conditions that activate the curse |
+| **Typical damage** | What gets degraded when the curse is active |
+| **Escape condition** | What dissolves or mitigates the curse |
+| **Monsters summoned** | Which monsters this curse tends to spawn (the curse→monster relationship) |
+| **Curse type** | Structural (resource/architecture), Cognitive (interpretation/framing), or Social (coordination/external pressure) |
+
+---
+
+#### Curse Types
+
+**Structural curses:** Conditions in the environment or resource landscape
+- Scarcity, Fragmentation, Lock-in
+
+**Cognitive curses:** Conditions in interpretation or framing
+- Physics Leakage, False Bedrock, Conservation Fallacy, Diagram Drift, Premature Formalization, Ontology Collapse
+
+**Social curses:** Conditions in coordination or external pressure
+- Metric Gravity, Audience Capture, External Pressure
+
+---
+
+#### Example Curses
+
+##### ☠️ Curse: Novelty Addiction
+
+**Looks like:**  
+"This is exciting again"  
+"Fresh start energy"  
+"New framework, new me"
+
+**Actually is:**  
+Dopamine-seeking disguised as strategic pivoting
+
+**Common triggers:**
+- Discomfort with grinding/maintenance work
+- Environments that reward ideation over completion
+- Creative temperaments with low boredom tolerance
+- ADHD and adjacent neurotypes
+
+**Typical damage:**
+- Beginnings accumulate, endings don't
+- Completion muscle atrophies
+- System learns "stuck" → "restart" instead of "stuck" → "push through"
+
+**Escape condition:**
+- Make novelty available *after* shipping (reward restructuring)
+- Find novelty *within* the current project (reframe)
+- Time-box the itch ("new thing Friday, if this ships Thursday")
+
+**Monsters summoned:**
+- **The Reboot Loop** — primary fuel source; novelty reward reinforces restart behavior
+- **The Ossified Scaffold** (paradoxically) — hopping between scaffolds instead of using any of them
+
+**Curse type:** Cognitive (neurological reward structure meets interpretation)
+
+#### ☠️ Curse: Scarcity
 
 **Looks like:**  
 “We don’t have time”  
@@ -102,13 +198,20 @@ A compression of time and resources that collapses option space
 - Reduce simultaneous demands  
 - Explicitly extend horizons
 
-## ☠️ Curse Cluster: Metaphor & Model Pathologies
+**Monsters summoned:**
+- The Metric Maximizer (proxy optimization under pressure)
+- The Cassandra (time pressure suppresses response to warnings)
+- The Berserker (narrow focus as survival mode)
+
+**Curse type:** Structural
+
+#### ☠️ Curse Cluster: Metaphor & Model Pathologies
 
 These curses distort interpretation and intervention by importing structure where it does not belong. They do not cause behavior directly; they bias which behaviors become stable.
 
 ---
 
-### ☠️ Curse: Physics Leakage
+##### ☠️ Curse: Physics Leakage
 
 **Looks like:**  
 Rigor, inevitability, “hard constraints”
@@ -131,9 +234,13 @@ A metaphor silently promoted to a causal model outside its native domain
 - Replace geometry with descriptive axes  
 - Ask: *What breaks if this is only a diagram?*
 
+**Monsters summoned:**
+- The Ossified Scaffold (metaphor becomes load-bearing)
+- The Captured Narrator (defending the leaked model)
+
 ---
 
-### ☠️ Curse: False Bedrock
+##### ☠️ Curse: False Bedrock
 
 **Looks like:**  
 “Everything rests on X”  
@@ -156,9 +263,13 @@ A locally useful pivot mistaken for ontological foundation
 - Ask: *What work is this doing locally?*  
 - Replace “fundamental” with “highly stable attractor”
 
+**Monsters summoned:**
+- The Ossified Scaffold (the bedrock becomes the only terrain)
+- The Captured Narrator (defending the foundation)
+
 ---
 
-### ☠️ Curse: Conservation Fallacy
+##### ☠️ Curse: Conservation Fallacy
 
 **Looks like:**  
 “If you gain X, you must lose Y”  
@@ -180,9 +291,13 @@ Assuming conserved quantities where none exist
 - Ask: *What exactly is being conserved, where, and why?*  
 - Check whether the “loss” is a real cost or just unfamiliarity
 
+**Monsters summoned:**
+- The Cassandra (false zero-sum creates helplessness)
+- The Metric Maximizer (optimizing one side of a fake tradeoff)
+
 ---
 
-### ☠️ Curse: Diagram Drift
+##### ☠️ Curse: Diagram Drift
 
 **Looks like:**  
 “According to the diagram…”  
@@ -205,9 +320,13 @@ Letting a visualization outrank the phenomenon it was meant to summarize
 - Describe the system without visuals  
 - Ask: *What can this diagram not show?*
 
+**Monsters summoned:**
+- The Ossified Scaffold (the diagram becomes the world)
+- The Captured Narrator (defending the picture)
+
 ---
 
-### ☠️ Curse: Metric Gravity
+##### ☠️ Curse: Metric Gravity
 
 **Looks like:**  
 “What gets measured gets managed”  
@@ -230,11 +349,15 @@ Legibility pulling attention and resources regardless of relevance
 - Introduce blind spots deliberately  
 - Shift reward timing
 
+**Monsters summoned:**
+- The Metric Maximizer (direct summon)
+- The Cassandra (unmeasured concerns become powerless)
+
 *Note: Metric Gravity is a curse. Metric Maximizer is the monster it often summons.*
 
 ---
 
-### ☠️ Curse: Premature Formalization
+##### ☠️ Curse: Premature Formalization
 
 **Looks like:**  
 “Let’s define this properly first”  
@@ -258,9 +381,13 @@ Structure applied before signal exists
 - Prototype without naming  
 - Delay taxonomy
 
+**Monsters summoned:**
+- The Ossified Scaffold (early structure becomes prison)
+- The Reboot Loop (formalization fails, restart with "better" framework)
+
 ---
 
-### ☠️ Curse: Ontology Collapse
+##### ☠️ Curse: Ontology Collapse
 
 **Looks like:**  
 “This *is* what’s really happening”  
@@ -281,6 +408,10 @@ Confusing explanatory power with exclusivity
 **Escape condition:**
 - Ask: *What does this explanation prevent me from seeing?*  
 - Explicitly apply a second, incompatible frame
+
+**Monsters summoned:**
+- The Captured Narrator (defending the One True Frame)
+- The Ossified Scaffold (can't see outside the collapse)
 
 ### Alternate Entry Points
 
