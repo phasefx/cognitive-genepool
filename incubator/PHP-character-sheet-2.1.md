@@ -64,7 +64,7 @@
     ### 6. 🔨 THE SLEDGEHAMMER (The Mandatory Exit Gate)
     **STOP. Do not pass this point until you hit your work with the hammer:**
 
-    1.  **The Distraction Check:** Did you spend 30+ minutes on this sheet to avoid the "Hotpot" (the actual task)?
+    1.  **The Distraction Check:** Did you spend 30+ minutes on this sheet to avoid the "Thing" (the actual task)?
     2.  **The Excuse Check:** Are you using "Benched Classes" to justify a failure of willpower?
     3.  **The Biological Check:** Do you actually just need a sandwich, a nap, or a 5-minute walk?
     4.  **The Structural Check:** Is the problem in the environment or the system? You can't multi-class out of a toxic substrate.
