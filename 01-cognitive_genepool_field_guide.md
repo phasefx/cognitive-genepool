@@ -69,7 +69,7 @@ Intelligence is frame-based control (navigation) in a world that must be compres
 The core inspiration is the T.A.M.E. framework by Michael Levin. You will also recognize quite a bit of second-order cybernetics, the Free Energy Principle, and Donald Hoffman's Interface Theory. There's also Benjamin Lyons' talk on mathematical agency, and Alan Watts peeks his head in here as well.
 
 ## Borrowed tools
-Levin's cognitive lightcones, axis of persuadability, and polycomputing.
+Levin's cognitive light cones, axis of persuadability, and polycomputing.
 Lyons' definition for agency.
 Any errors, inconsistencies, or misunderstandings are solely my own invention.
 

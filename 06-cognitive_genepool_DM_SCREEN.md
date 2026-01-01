@@ -6,7 +6,7 @@
 * Debugging Flowchart  
 * Backfire Cheatsheet  
 * The Monster Spotter  
-* The Lightcone Scatterplot (Archetypes)  
+* The Light cone Scatterplot (Archetypes)  
 * Inscription Depth Check  
 * The "Is It Real?" Test (Regime Check)
 

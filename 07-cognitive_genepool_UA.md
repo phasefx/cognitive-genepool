@@ -30,7 +30,7 @@
   - Interpreter Guidance (for LLMs / summarizers)  
   - Auditor Guidance (for rigor-mode)
 * Scratchpad / Open Questions
-  - Where the broken lightcone extensions went  
+  - Where the broken light cone extensions went  
   - Unresolved tensions (acknowledged, bracketed)  
   - Ideas in orbit
 
@@ -51,7 +51,7 @@ Everything in this book is a World-Bet—a speculative framework that might be u
 
 2. Math is a Pivot, Not a God.
 
-We use mathematical metaphors (Lightcones, Vectors, Attractors). These are Cognitive Pidgins—tools to help us coordinate. They are not the bedrock of reality. Do not confuse the map co-ordinates for the terrain. We use these for cognitive compression, not for mathematical proofs.
+We use mathematical metaphors (Light cones, Vectors, Attractors). These are Cognitive Pidgins—tools to help us coordinate. They are not the bedrock of reality. Do not confuse the map co-ordinates for the terrain. We use these for cognitive compression, not for mathematical proofs.
 
 3. The Stop Rule (Dogma Defense).
 
@@ -668,7 +668,7 @@ How to build it, not just argue about it.
 *The Position:* Every state has a prior cause; therefore, freedom is an illusion.
 
 * **The Translation:** You are right. The physics is closed. But there is a massive engineering difference between a calculator (1 frame) and a general-intelligence agent (many frames).
-* **The Upgrade:** Determinism is true, but **Degrees of Freedom** are real system properties. A system that can model 50 futures has more "freedom" than a rock, even if both are determined. We call this **Lightcone Scope**.
+* **The Upgrade:** Determinism is true, but **Degrees of Freedom** are real system properties. A system that can model 50 futures has more "freedom" than a rock, even if both are determined. We call this **Light cone Scope**.
 
 ###### 3. For the Libertarian
 
@@ -769,7 +769,7 @@ Sledgehammer alternative: Maybe we just needed "this is a lens, not a manifesto"
 
 	Some other terms worth defining early:  
 	**Pivot Space:** a latent space used for synchronizing affordances between two other latent spaces  
-	**Cognitive Lightcone**: a graphic representation of an agent's scope of concern--what it cares about--across time and space  
+	**Cognitive Light cone**: a graphic representation of an agent's scope of concern--what it cares about--across time and space  
 	---
 
 	## Known Open Tensions
@@ -857,7 +857,7 @@ Sledgehammer alternative: Maybe we just needed "this is a lens, not a manifesto"
 
 	   If you attribute agency to an entity/process (language, norms, inscriptions, math, capitalism, etc.), you must supply at least one of:
 
-	   * **Lightcone signature** (Span / Resolution / Intensity)  
+	   * **Light cone signature** (Span / Resolution / Intensity)  
 	   * **Persistence signature** (it resists perturbation / returns to attractor)  
 	   * **Selection signature** (it replicates/persists via feedback loops)  
 	   * **Interface signature** (it can be “persuaded” at some level in the Persuadability Matrix described later in the document)
@@ -959,7 +959,7 @@ Sledgehammer alternative: Maybe we just needed "this is a lens, not a manifesto"
 	   * **Lane?** Mainline / Speculation / Metaphor / Scratchpad  
 	   * **Any `{eng}`?** Has regime \+ observable \+ falsifier  
 	   * **Any contradiction?** regime/level/lens split or bracket  
-	   * **Any “X is an agent”?** needs signature (lightcone/persistence/selection/interface)  
+	   * **Any “X is an agent”?** needs signature (light cone/persistence/selection/interface)  
 	   * **Any inscription talk?** typed as trace/process/agent  
 	   * **Any polycomputing?** leverage \+ falsifier stated  
 	   * **Any self-talk that sneaks in a homunculus?** rewrite into coalition/arbitration  
@@ -1072,7 +1072,7 @@ Sledgehammer alternative: Maybe we just needed "this is a lens, not a manifesto"
 
 ### Scratchpad / Open Questions
 
-* Where the broken lightcone extensions went  
+* Where the broken light cone extensions went  
 * Unresolved tensions (acknowledged, bracketed)  
 * Ideas in orbit
 
@@ -1138,17 +1138,17 @@ This is one of the best “don’t be dumb with the matrix” guardrails.
 
  **Where it belongs:** Book II → PM section \+ DM Screen as a tiny warning note.
 
-##### **9\) Cognitive lightcones archetypes: Cassandra / Berserker / Sage \+ mismatch framing**
+##### **9\) Cognitive light cones archetypes: Cassandra / Berserker / Sage \+ mismatch framing**
 
 This is basically the seed-crystal of your Monster Manual pattern-space.
 
- **Where it belongs:** Monster Manual → intro chapter (“Shape of a Monster”) \+ Lightcone Scatterplot on the DM Screen.
+ **Where it belongs:** Monster Manual → intro chapter (“Shape of a Monster”) \+ Light cone Scatterplot on the DM Screen.
 
 ##### **10\) The Iron Triangle (Span / Resolution / Intensity)**
 
 This is an elegant constraint that makes the “why not everything at once?” argument actually feel grounded.
 
- **Where it belongs:** PH → Lightcone Audit *or* Book II → Instrumentation / budgeting section.
+ **Where it belongs:** PH → Light cone Audit *or* Book II → Instrumentation / budgeting section.
 
 #### **Salvage for Deep Lore (keep, but don’t let it steer the mainline)**
 
@@ -1181,7 +1181,7 @@ If you want a fast merge path, here’s a very tight mapping:
 **Arcane Arcana:** interpreter/auditor guidance \+ sledgehammer alternatives \+ “decoration—swap frames” line.
 
 **PH / Stress Equation:** stress-as-telemetry \+ intervention triad.  
-**MM / Intro:** cognitive lightcone mismatch archetypes \+ “framework is also a monster” warning.
+**MM / Intro:** cognitive light cone mismatch archetypes \+ “framework is also a monster” warning.
 
 **DM Screen:** (a) targeting matrix (your PM2-v2), plus (b) “columns coupled / rows cascade” warning micro-box.
 

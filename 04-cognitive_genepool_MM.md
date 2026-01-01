@@ -103,7 +103,7 @@ Each entry follows the same minimal template:
 1. **What's happening** \- the core behavioral pattern  
 2. **A tell / diagnose line:** what typically stands out  
 3. **Why it matters** \- danger, instruction, or insight  
-4. **Core dimensions** \- cognitive lightcone, competency, contraints, persuadability  
+4. **Core dimensions** \- cognitive light cone, competency, contraints, persuadability  
 5. **Dynamics** \- how it evolves over time  
 6. **Interventions** \- why common fixes fail, what might actually work  
 7. **Examples** \- real-world instances and variants
@@ -112,7 +112,7 @@ Each entry follows the same minimal template:
 
 **The dimensions are diagnostic questions, not mystical properties:**
 
-- Lightcone \= what can this system care about?  
+- Light cone \= what can this system care about?  
 - Competency \= how well does it navigate toward goals?  
 - Constraint Profile \= what blocks change; budgets, coordination, substrate locks  
 - Persuadability \= what can be changed by signals?
@@ -214,7 +214,7 @@ If yes, use the stance. If no, drop it.
 
 ##### CORE DIMENSIONS
 
-**Cognitive Lightcone (Care):**
+**Cognitive Light cone (Care):**
 
 - Scope: \[What intrinsically matters\]  
 - Exclusions: \[What explicitly does NOT matter\]
@@ -408,7 +408,7 @@ Legend: ❌ Ineffective | ⚠️ Risky/Temporary | ☠️ Backfires (strengthens
 
 - **Pattern:** One-sentence recognition hook  
 - **Why it matters:** Immediate threat/insight assessment  
-- **Lightcone:** Defines what the system cares about (and doesn't)  
+- **Light cone:** Defines what the system cares about (and doesn't)  
 - **Goal Structure:** Shows rigid vs flexible elements  
 - **Competency:** Navigation effectiveness  
 - **Agency:** Available strategies  
@@ -480,7 +480,7 @@ Legend: ❌ Ineffective | ⚠️ Risky/Temporary | ☠️ Backfires (strengthens
 
 ##### CORE DIMENSIONS
 
-**Cognitive Lightcone (Care):**
+**Cognitive Light cone (Care):**
 
 * **Scope:** Massive / System-wide (The Climate, The Market, The War).  
 * **Exclusions:** Immediate self-preservation (often sacrificed for the signal).
@@ -524,7 +524,7 @@ How this pattern reshapes the environment to make itself easier to sustain:
 | :---- | :---- | :---- |
 | **Gaslighting (Persuasion)** | ☠️ Backfire | They have the data. Denying reality proves you are part of the catastrophe. They will scream louder. |
 | **Empowerment (World-Change)** | ✓✓ Critical | Connect the Cassandra to a Lever (Agency). Convert "Warning" into "Steering." |
-| **Blinking (Map-Change)** | ✓ Effective | Artificially restrict the Lightcone (reduce Span). Force them to focus only on what they can touch. |
+| **Blinking (Map-Change)** | ✓ Effective | Artificially restrict the Light cone (reduce Span). Force them to focus only on what they can touch. |
 
 | **Legend:** ❌ Ineffective | ⚠️ Risky/Temporary | ☠️ Backfire | ✓ Effective | ✓✓ Critical leverage
 
@@ -566,7 +566,7 @@ In organizations, Cassandras are usually the first point of failure in a crisis�
 
 * **The Lever (World-Change):** If you give a Cassandra the power to fix the thing they see, they instantly transform from a "Monster" into a "Sage" or "Architect." The pathology wasn't the vision; it was the lack of hands.  
     
-* **The Blinders (Map-Change/Stoicism):** If you cannot give them a Lever, you must help them structurally narrow their Lightcone. "You are not responsible for the Earth; you are responsible for this garden." This is **Apoptosis of the Goal** to save the host.
+* **The Blinders (Map-Change/Stoicism):** If you cannot give them a Lever, you must help them structurally narrow their Light cone. "You are not responsible for the Earth; you are responsible for this garden." This is **Apoptosis of the Goal** to save the host.
 
 ##### Control Ecology
 
@@ -607,7 +607,7 @@ In organizations, Cassandras are usually the first point of failure in a crisis�
 
 ##### Core Stats
 
-**Lightcone (Care):** Medium–Broad, but *channeled* — cares about outcomes only as representable within the scaffold
+**Light cone (Care):** Medium–Broad, but *channeled* — cares about outcomes only as representable within the scaffold
 
 **Terminal vs Instrumental Goals:**
 
@@ -732,7 +732,7 @@ These are costly and destabilizing — which is why ossification persists.
 
 ##### CORE DIMENSIONS
 
-**Cognitive Lightcone (Care):**
+**Cognitive Light cone (Care):**
 
 - Scope: Narrow—cares only about the measured variable (score, likes, revenue, steps, tickets closed)  
 - Exclusions: Unmeasured qualities (learning, trust, health, culture, resilience) don't register unless they affect the proxy
@@ -797,7 +797,7 @@ Legend: ❌ Ineffective | ⚠️ Risky/Temporary | ☠️ Backfires (strengthens
 
 The Metric Maximizer demonstrates the central pathology of **competency exceeding concern**.
 
-The danger isn't stupidity—it's precision without wisdom. The system is *correct* in its reasoning: it accurately identifies what moves the metric and executes efficiently. But because its lightcone excludes everything the metric doesn't capture, it optimizes itself into catastrophic outcomes.
+The danger isn't stupidity—it's precision without wisdom. The system is *correct* in its reasoning: it accurately identifies what moves the metric and executes efficiently. But because its light cone excludes everything the metric doesn't capture, it optimizes itself into catastrophic outcomes.
 
 **Proxy collapse is an inscription process:** The metric doesn't merely *measure* reality—it **replaces** reality in the control loop. Once this happens, the system's internal map no longer corresponds to the territory. It's navigating a simplified world where only one thing exists: the number.
 
@@ -1327,7 +1327,7 @@ These are teleonomic agents, not ontological ones.
 
 ##### CORE DIMENSIONS
 
-**Cognitive Lightcone (Care):**
+**Cognitive Light cone (Care):**
 
 - Scope: Narrow and shrinking—can only manage immediate chemical threats, no reserve capacity for longer-term regulation  
 - Exclusions: Future health, organism-level goals, anything beyond next-hour survival
@@ -1787,7 +1787,7 @@ Substrate replacement is the only intervention operating at the correct level.
 
 #### CORE DIMENSIONS
 
-**Cognitive Lightcone (Care):**
+**Cognitive Light cone (Care):**
 
 - Scope: Whatever the capturing pattern cares about—the Narrator inherits goals from its captor  
 - The Narrator itself has no independent terminal goals; it's *instrumental* to something else  
@@ -2192,7 +2192,7 @@ And you never let anyone claim it's been permanently slain.
 
 ##### CORE DIMENSIONS
 
-**Cognitive Lightcone (Care):**
+**Cognitive Light cone (Care):**
 
 * **Scope:** The project, the vision, the "someday" version
 * **Exclusions:** The actual current state; the "good enough" threshold; the cost of not shipping

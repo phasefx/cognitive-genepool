@@ -37,7 +37,7 @@ Use it to get **leverage**. If it doesn’t change predictions or actions, treat
 - **Selection:** Which loops persist/propagate because they have causal leverage (fitness in context, not moral worth).
 - **Substrate:** The physical/social/technical medium that constrains possible regimes (brains, teams, markets, code).
 - **Persuadability:** How much/where a system can be steered by information, incentives, or structure.
-- **Lightcone (Cognitive):** The boundary of what a system *cares about*—the largest goal-scale it can meaningfully model and work toward. Paired with **Competency** for diagnosis (see Part III). Not the same as perception range. The lightcone shines through conceptual/problem space.
+- **Light cone (Cognitive):** The boundary of what a system *cares about*—the largest goal-scale it can meaningfully model and work toward. Paired with **Competency** for diagnosis (see Part III). Not the same as perception range. The light cone shines through conceptual/problem space.
 
 **System 1 and System 2** We re-purpose Kahneman's System 1/System 2 distinction into roles system components can adopt in relation to each other. The same System 2 in one collective could be a System 1 in another.
 - **System 1** = policy continuation / autopilot
@@ -227,24 +227,24 @@ This is why polycomputing is the default, not the exception.
 
 ---
 
-## Part III: Cognitive Lightcones & Competency
+## Part III: Cognitive Light cones & Competency
 
 ### The Core Concept (Levin)
 
-A **Cognitive Lightcone** represents the spatiotemporal horizon of a system's concern—the largest goal-scale it can meaningfully model and work toward. It defines the boundary of what the system *cares* about.
+A **Cognitive Light cone** represents the spatiotemporal horizon of a system's concern—the largest goal-scale it can meaningfully model and work toward. It defines the boundary of what the system *cares* about.
 
 ### The Diagnostic Pair
 
 To understand a system's behavior, we compare two distinct properties:
 
-1. **Concern (The Lightcone):** The scope of the goal space (Spatial, temporal, relational). *How big is the map?*  
+1. **Concern (The Light cone):** The scope of the goal space (Spatial, temporal, relational). *How big is the map?*  
 2. **Competency:** The effectiveness of navigation under perturbation. *How strong is the engine?*
 
 When concern exceeds competency, you get **impotence**—seeing problems you can't solve. The Cassandra.
 
 When competency exceeds concern, you get **optimization without wisdom**—solving problems without caring about effects beyond the goal. The Berserker.
 
-**Note:** Lightcone scope is relatively stable—it's inscribed, not fluid. Expanding what you care about is goal-level change: expensive, slow, and often requiring external forcing functions or substrate-level intervention. "Just care more broadly" is not a free move. Expanding concern without expanding competency creates suffering (Cassandra), not freedom.
+**Note:** Light cone scope is relatively stable—it's inscribed, not fluid. Expanding what you care about is goal-level change: expensive, slow, and often requiring external forcing functions or substrate-level intervention. "Just care more broadly" is not a free move. Expanding concern without expanding competency creates suffering (Cassandra), not freedom.
 
 ### Archetypes
 
@@ -271,7 +271,7 @@ Discernment is Scale-Dependent. "High Fidelity" is meaningless without a declare
     * Noise at one scale is Signal at another.
     * Truth at one scale is Error at another.
 
-Example: Newtonian Physics is High Fidelity at the scale of a bridge, but Low Fidelity (Wrong) at the scale of an atom. Neither is "False." They are just optimized for different Lightcones.
+Example: Newtonian Physics is High Fidelity at the scale of a bridge, but Low Fidelity (Wrong) at the scale of an atom. Neither is "False." They are just optimized for different Light cones.
 
 ---
 
@@ -430,7 +430,7 @@ We can unbundle "freedom" into specific, trainable system capacities:
 1. **Frame Awareness:** The ability to inspect the current frame (UI) rather than just looking through it.  
 2. **Frame Fluency:** The capacity to unbind from the current frame and select a different one when error signals rise.  
 3. **Plasticity:** The degree to which Inscription (Π) can be overwritten by new learning.
-4. **Lightcone Scope:** The boundary of what you care about (see Part III). Unlike Frame Fluency (relatively trainable), lightcone scope is deeply inscribed and expensive to change—it's goal-level, not method-level. Expanding concern without matched competency creates suffering, not freedom.
+4. **Light cone Scope:** The boundary of what you care about (see Part III). Unlike Frame Fluency (relatively trainable), light cone scope is deeply inscribed and expensive to change—it's goal-level, not method-level. Expanding concern without matched competency creates suffering, not freedom.
 
 **Constraint is the substrate of freedom.** Without finite constraints, no choice is meaningful. Agency lives in the capacity to navigate constraints, not the absence of them.
 

@@ -246,7 +246,7 @@ You are almost to the character sheet.
 ### A Practical Self-Diagnostic for Agents
 
 * What this is (reconnaissance, not therapy)  
-* Section 1: Lightcone Audit (Care vs. Competence)  
+* Section 1: Light cone Audit (Care vs. Competence)  
 * Section 2: Goal Structure (Terminal vs. Instrumental)  
   * **The Dangerous Confusion**  
 * Section 3: Re-spec Difficulty (Goal / Method / Model levels)  
@@ -292,7 +292,7 @@ Fill this out honestly. The framework can't help you if you're performing for it
 
 *What you care about vs. what you can actually affect*
 
-#### Your Concern (Cognitive Lightcone)
+#### Your Concern (Cognitive Light cone)
 
 **Question:** What keeps you up at night? What generates terminal error for you?
 
@@ -550,7 +550,7 @@ Rate how often you experience each pattern (0 \= never, 5 \= constantly):
 
 \_\_/5  I'm aware of problems (climate, politics, organizational dysfunction) I can't personally solve \_\_/5  I feel guilty or anxious about things outside my control \_\_/5  People tell me I'm "too negative" or "always worrying"
 
-**If 3+:** You're in the Plane of Powerlessness. Shrink your lightcone to what you can actually affect, or find a lever.
+**If 3+:** You're in the Plane of Powerlessness. Shrink your light cone to what you can actually affect, or find a lever.
 
 #### The Ossified Scaffold
 
@@ -629,7 +629,7 @@ Based on your answers, you should be able to identify:
 
 Circle one:
 
-- **Concern \> Competence:** Suffering from powerlessness (→ shrink lightcone or gain leverage)  
+- **Concern \> Competence:** Suffering from powerlessness (→ shrink light cone or gain leverage)  
 - **Competence \> Concern:** Danger of myopic optimization (→ expand values or constrain yourself)  
 - **Low Agency:** Trapped by constraints (→ world-change to create options)  
 - **Inscription Locked:** Past damage blocking function (→ substrate intervention)  
@@ -737,7 +737,7 @@ That's not a bug. That's the framework working. Now you know where the resistanc
 * Frames: F \= (P, A, Π, G, C)  
   * **Helicopter controls** ← *these are coupled, not independent knobs*  
 * Encode / Decode  
-* Cognitive Lightcones (Levin's version, not the broken physics-leak)  
+* Cognitive Light cones (Levin's version, not the broken physics-leak)  
   * Concern vs. Competence  
   * **Optional overlays:** Span, Resolution, Intensity *(descriptive, not multiplicative)*  
 * Inscription  
