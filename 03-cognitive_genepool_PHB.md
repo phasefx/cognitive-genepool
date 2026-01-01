@@ -207,11 +207,17 @@ Sees structure others miss. Builds coherent models.
 **Signature Cost:**  
 May get lost in the map and forget the territory.
 
-**Under Stress Becomes:**  
-**The Reboot Loop** — infinite re-analysis.
+**Under Stress May Collapse Into:**
 
-**When to Invite the Wizard:**
-- When reality feels confusing or incoherent  
+- **Reboot Loop** — restarting to remain in high-competence ideation  
+- **Captured Narrator** — logic recruited to defend a conclusion  
+- **Ossified Scaffold** — the framework becomes the terrain  
+- *Proxy Worship* — optimizing what the model can see  
+- *Analysis Paralysis* — resolution without actuation
+
+Stress outcome depends on may be missing:
+External signal, finish line, or authority to act
+
 - When you need to understand why something works
 
 ---
@@ -226,8 +232,15 @@ Reads the room. Navigates novel terrain quickly.
 **Signature Cost:**  
 Often can’t justify or explain the gut read.
 
-**Under Stress Becomes:**  
-**The Cassandra** — sees the signal, has no lever.
+**Under Stress May Collapse Into:**
+
+- **Cassandra** — sees the threat, has no lever
+- **Drift Runner** — constant motion without accumulation
+- **Weather Channel** — narrating conditions instead of choosing paths
+- **Hypervigilant Scout** — everything looks like terrain, nothing like a goal
+
+Stress outcome depends on what may be missing:
+Commitment, insulation from noise, or goal clarity
 
 **When to Invite the Ranger:**
 - When you’re overthinking  
@@ -245,8 +258,14 @@ Changes what the situation *means*.
 **Signature Cost:**  
 Can mistake eloquence for truth.
 
-**Under Stress Becomes:**  
-**The Captured Narrator** — defending a story instead of looking.
+**Under Stress May Collapse Into:**
+- **Captured Narrator** — story self-seals against evidence
+- **Narrative Inflation** — everything becomes Meaningful™, nothing actionable
+- **Vibe Optimizer** — emotional coherence prioritized over outcomes
+- **Motivational Speaker** — framing as a substitute for change
+
+Stress outcome depends on what may be missing:
+Falsifiers, friction, or embodiment
 
 **When to Invite the Bard:**
 - When everything feels stuck or overdetermined  
@@ -264,8 +283,14 @@ Turns effort into autopilot. Extends capacity.
 **Signature Cost:**  
 Tools can ossify and become prisons.
 
-**Under Stress Becomes:**  
-**The Ossified Scaffold** — the tool becomes the world.
+**Under Stress May Collapse Into:**
+- **Ossified Scaffold** — infrastructure locks out alternatives
+- **Cirrhotic Liver** — fixes create scar tissue
+- **Tool Drift** — maintaining systems replaces purpose
+- **Automation Addiction** — anything manual feels illegitimate
+
+Stress outcome depends on what may be missing:
+Re-evaluation, sunset clauses, or human judgment
 
 **When to Invite the Artificer:**
 - When willpower isn’t enough  
@@ -283,8 +308,14 @@ Finishes things. Resists drift.
 **Signature Cost:**  
 Can rigidify and moralize.
 
-**Under Stress Becomes:**  
-**The Berserker** — narrow optimization, collateral damage.
+**Under Stress May Collapse Into:**
+Berserker — narrow optimization, collateral damage
+Metric Maximizer — proxy promoted to sacred goal
+Moral Crusader — righteousness replaces discernment
+Deadline Tyrant — time pressure collapses option space
+
+Stress outcome depends on what may be missing:
+Slack, feedback, or permission to renegotiate goals
 
 **When to Invite the Paladin:**
 - When things keep slipping  
@@ -302,8 +333,14 @@ Breaks habits. Questions the obvious.
 **Signature Cost:**  
 Can over-index on hidden explanations.
 
-**Under Stress Becomes:**  
-**The Paranoid Generator** — secret patterns justify fear.
+**Under Stress May Collapse Into:**
+Paranoid Generator — hidden patterns justify fear
+Second-Guess Spiral — every option undermined pre-action
+Edge-Lord — contrarianism as identity
+Saboteur — breaks systems to prove they were fragile
+
+Stress outcome depends on what may be missing:
+Safety, alliance, or stable ground to stand on
 
 **When to Invite the Rogue:**
 - When nothing seems to work  
