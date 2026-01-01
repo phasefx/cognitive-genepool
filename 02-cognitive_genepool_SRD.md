@@ -268,7 +268,7 @@ You can't maximize all three:
 - **Discernment (Resolution, Fidelity):** How finely you discriminate  
 - **Power (Intensity, Gain):** How much control-power you can exert
 
-Increase one, the others tend to decrease. Computational resources are finite. This is why wisdom requires **inscription efficiency**—encoding solutions well enough that you don't have to re-derive them under pressure.
+Increase one, the others tend to decrease. Computational resources are finite. This is why wisdom requires **inscription efficiency**—encoding solutions well enough that you don't have to re-derive them under pressure. Another way of saying it: increasing one stresses the others unless you change substrate, scaffolds, or decomposition.
 
 Discernment is Scale-Dependent. "High Fidelity" is meaningless without a declared scale.
 
