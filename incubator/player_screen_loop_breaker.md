@@ -52,11 +52,15 @@
 
 *Pick one. Do it. Not all. Not perfect.*
 
-- **Paladin:** Finish line — write it down + tell someone
-- **Ranger:** External signal — ask a human / run a tiny test / touch grass
-- **Wizard:** Falsify — write what would prove you wrong
-- **Rogue:** Delete — imagine the tool didn't exist
-- **Bard:** Rename — say the real goal out loud
+Counter-Moves (pick one, do it now)
+* Wizard — Predict: Write one concrete prediction. What would prove you wrong?
+* Ranger — Contact: Get one external signal (human, reality check, tiny test, go outside).
+* Bard — Reframe: Name a different story that makes the next move obvious or easier.
+* Artificer — Remove: Ask: What would I do if this tool/process didn’t exist?
+* Paladin — Commit: State a finish line you won’t renegotiate. Say it out loud.
+* Rogue — Find the Game: Ask: How is this being gamed? What assumption is protected?
+
+> Rule: The class driving the problem cannot be the one you use to break it.
 
 ---
 
