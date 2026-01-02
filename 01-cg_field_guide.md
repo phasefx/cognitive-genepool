@@ -1,10 +1,11 @@
 # The Cognitive Genepool
 
-## Genes don't transmit meaning. They transmit *patterns that recombine and mutate*. Some offspring are worse. Some are better. The pool is richer than any individual instance.
+*Genes don’t transmit purpose.  
+They transmit patterns that are reconstructed.*
 
-🚧 Draft — some rooms are still under construction.
-Collaborators welcome. If you want to help fill in the stubs, see the Contributor Guide.
-README.md is a symlink to 01-cognitive_genepool_field_guide.md
+🚧 Draft — some rooms are still under construction.  
+Collaborators welcome. If you want to help fill in the stubs, see the Contributor Guide.  
+README.md is the same file as 01-cg_field_guide.md
 
 ## Session Zero: The Tone Contract
 
