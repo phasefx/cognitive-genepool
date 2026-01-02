@@ -9,79 +9,7 @@
 ---
 
 ## Contents
-
-**0\. Session Zero: The Engineering Contract**
-
-**1\. What This Book Is For**
-
-* Moving from navigation to architecture  
-* Success criterion: choose interventions without arguing ontology
-
-**2\. The Persuadability Matrix (PM2-v2)**
-
-* The Core Insight (Levin's axis)  
-* The Matrix (Interface Level × Intervention Target)  
-* Why v1 needed revision (two orthogonal questions)  
-* The two-step targeting procedure  
-* Worked examples  
-  * Metric Maximizer (institution)  
-  * Addiction (individual)  
-  * **SALVAGE: Cancer (collective/biological)** ← *preserve the diplomacy vs. carpet-bombing framing*  
-* Engineering heuristics  
-* Falsifiers
-
-**3\. The Frame Lab**
-
-* F1: Rigor (how not to slide into "anything goes")  
-* F2: Converting thought experiments into testable case studies  
-* F3: Instrumentation (what to measure)  
-* F4: Unit Tests (Falsifiers)  
-  * **SALVAGE: "Truth is just a hallucination that hasn't collided with an error signal yet"** ← *why falsifiers matter*  
-* F5: In Case of Fire, Break Glass (framework failure modes)
-
-**4\. Inscription Engineering**
-
-* Working with inscription, not against it  
-  * Don't delete—redirect  
-  * Inscribe the edit  
-  * Find the shallow points  
-  * Build new roads  
-  * Don't argue in a captured pivot space  
-* **SALVAGE: The Recursive Trap** ← *"the capacity to edit inscription is itself a target of inscription" — expanded*  
-* Inscription depth assessment  
-* When substrate replacement is the only option
-
-**5\. Communication & Coordination**
-
-* **SALVAGE: "We communicate affordances, not meaning"** ← *axiom, with implications*  
-* Pivot spaces  
-* Cognitive Pidgin  
-  * **SALVAGE: The Dogs** ← *domestication as worked example of anthropomorphism-as-bridge*  
-* Stress as telemetry (signal vs load)  
-* **SALVAGE: Cancer as failed social contract** ← *cells pivoting to immediate survival; destructive communication is still communication*
-
-**6\. Collective Pathologies**
-
-* The Scaled Tarrasque (distributed capture)  
-* Moloch dynamics  
-* Why "just change the norms" fails  
-* Distributed inscription and the coordination problem
-
-**7\. Deep Lore (Optional / Speculative)**
-
-* Free Will as Frame Fluency ← *harmonizing sidebar translations: Compatibilist, Hard Determinist, Libertarian, Buddhist, Existentialist, Control Theorist*  
-* Polycomputing (what it is, what it isn't, leverage ≠ validity)  
-* **SALVAGE: "No bedrock, but practical pivots"** ← *dropping bedrock isn't dropping constraint*  
-* The Cognitive Genepool (why diversity matters)  
-* **{meta} The Physics of Morality** ← *if you want to go there*
-
-**8\. Failure Modes of This Book**
-
-* Goodhart risk on the framework itself  
-* Map fetishism  
-* Teleophobia (refusing agency attribution when it would help)  
-* Anthropomorphic overreach (arguing with level-0 systems)  
-* **ADD: "If the framework can explain any outcome, it explains nothing"**
+> DRAFT NOTE: recreate when done with the content
 
 ---
 
@@ -390,39 +318,46 @@ The Frame Lab is a scaffold, and scaffolds can be misused. Things to watch out f
 
 ### **4\. Inscription Engineering**
 
-* Working with inscription, not against it  
-  * Don't delete—redirect  
-  * Inscribe the edit  
-  * Find the shallow points  
-  * Build new roads  
-  * Don't argue in a captured pivot space  
-* **SALVAGE: The Recursive Trap** ← *"the capacity to edit inscription is itself a target of inscription" — expanded*  
-* Inscription depth assessment  
-* When substrate replacement is the only option
+> Draft Notes  
+> * Working with inscription, not against it  
+>  * Don't delete—redirect  
+>  * Inscribe the edit  
+>  * Find the shallow points  
+>  * Build new roads  
+>  * Don't argue in a captured pivot space  
+> * **SALVAGE: The Recursive Trap** ← *"the capacity to edit inscription is itself a target of inscription" — expanded*  
+> * Inscription depth assessment  
+> * When substrate replacement is the only option
+
+
+
 
 ### **5\. Communication & Coordination**
 
-* **SALVAGE: "We communicate affordances, not meaning"** ← *axiom, with implications*  
-* Pivot spaces  
-* Cognitive Pidgin  
-  * **SALVAGE: The Dogs** ← *domestication as worked example of anthropomorphism-as-bridge*  
-* Stress as telemetry (signal vs load)  
-* **SALVAGE: Cancer as failed social contract** ← *cells pivoting to immediate survival; destructive communication is still communication*
+> Draft Notes  
+> * **SALVAGE: "We communicate affordances, not meaning"** ← *axiom, with implications*  
+> * Pivot spaces  
+> * Cognitive Pidgin  
+>   * **SALVAGE: The Dogs** ← *domestication as worked example of anthropomorphism-as-bridge*  
+> * Stress as telemetry (signal vs load)  
+> * **SALVAGE: Cancer as failed social contract** ← *cells pivoting to immediate survival; destructive communication is still communication*
 
 ### **6\. Collective Pathologies**
 
-* The Scaled Tarrasque (distributed capture)  
-* Moloch dynamics  
-* Why "just change the norms" fails  
-* Distributed inscription and the coordination problem
+> Draft Notes  
+> * The Scaled Tarrasque (distributed capture)  
+> * Moloch dynamics  
+> * Why "just change the norms" fails  
+> * Distributed inscription and the coordination problem
 
 ### **7\. Failure Modes of This Book**
 
-* Goodhart risk on the framework itself  
-* Map fetishism  
-* Teleophobia (refusing agency attribution when it would help)  
-* Anthropomorphic overreach (arguing with level-0 systems)  
-* **ADD: "If the framework can explain any outcome, it explains nothing"**
+> Draft Notes  
+> * Goodhart risk on the framework itself  
+> * Map fetishism  
+> * Teleophobia (refusing agency attribution when it would help)  
+> * Anthropomorphic overreach (arguing with level-0 systems)  
+> * **ADD: "If the framework can explain any outcome, it explains nothing"**
 
 ---
 
