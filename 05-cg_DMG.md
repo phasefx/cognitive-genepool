@@ -329,8 +329,147 @@ The Frame Lab is a scaffold, and scaffolds can be misused. Things to watch out f
 > * Inscription depth assessment  
 > * When substrate replacement is the only option
 
+#### 4.1 What Inscription Is
 
+Inscription is the mechanism by which frames persist. When a frame is enacted—when it closes a loop of predict → act → update—it writes traces into the substrate: habits, tools, norms, memories, environments.
 
+These traces aren't passive records. They bias future perception and action. They make some frames easier to re-instantiate and others harder to conceive.
+
+**Inscription is how "the way things are" gets manufactured.**
+
+---
+
+#### 4.2 Inscription as Mechanism
+
+Frames become causally relevant when they couple to shared state and steer control loops. Inscription is the coupling that persists.
+
+| Inscription Type | What It Biases | Frame Component |
+|------------------|----------------|-----------------|
+| **Attention inscriptions** | What gets rendered | P (Projection) |
+| **Tool inscriptions** | What's doable / default policy | A (Affordances), Π (Priors) |
+| **Norm inscriptions** | What's allowed/costly, what's valued | C (Constraints), G (Goals) |
+| **Memory inscriptions** | Priors, stabilizes perception over time | P, Π |
+| **Environment inscriptions** | Hardens constraints, makes some actions cheap | C, A |
+
+**Key insight:** Governance mostly works by editing inscriptions, not by winning arguments. Arguments matter insofar as they reliably change defaults.
+
+---
+
+#### 4.3 Inscription as Agent
+
+Inscription isn't just mechanism—it exhibits agentic properties. Not conscious goals, but *telonomic* ones: the selection signature of anything that's still around.
+
+**What inscription "wants":**
+- **Persist** — remain encoded in substrate
+- **Propagate** — spread to new substrates, agents, contexts
+- **Resist editing** — make alternatives costly, invisible, or unthinkable
+- **Recruit defenders** — co-opt agents into rationalization
+
+**Inscription's competencies:**
+- **Affordance shaping** — determines what actions feel available
+- **Inference biasing** — weights priors, colors perception
+- **Alternative suppression** — degrades capacity to notice other frames
+- **System 2 capture** — recruits deliberative cognition for justification rather than evaluation
+
+**Observable symptoms:**
+- "Some actions stop feeling thinkable" → affordance shaping
+- "Same evidence gets re-read through the groove" → inference biasing
+- "Exceptions get memory-holed" → alternative suppression
+- "Deliberation becomes justification" → System 2 capture
+
+**The bias:** Inscription optimizes for persistence, not truth, not welfare, not coherence. A norm that destroys its host culture can still propagate if it jumps to new hosts fast enough.
+
+---
+
+#### 4.4 The Recursive Trap
+
+Editing deep inscription requires collective capacity: shared pivot spaces, trust, communication bandwidth, coordinated action.
+
+But inscription *degrades* collective capacity. It fragments shared spaces, erodes trust, captures communication channels, and makes coordination costly.
+
+> **The capacity needed to edit inscription is itself a target of inscription.**
+
+This is why "just change the norms" or "just update the incentives" often fails. You're not fighting inertia. You're fighting an agent that's optimizing against your intervention—not consciously, but structurally.
+
+---
+
+#### 4.5 Working With Inscription (The Five Principles)
+
+If inscription is agentic, diplomacy applies.
+
+##### Principle 1: Don't Delete—Redirect
+
+Inscription that's actively fought often recruits defenders. Inscription that's given a new channel may flow there instead.
+
+*Example:* Instead of trying to eliminate status-seeking behavior, redirect it toward different status markers. The drive persists; the expression changes.
+
+##### Principle 2: Inscribe the Edit
+
+One-time interventions decay. Changes that persist are changes that get inscribed—in habits, tools, environments, rituals.
+
+*Example:* A single conversation about priorities will fade. A weekly review ritual that forces priority-checking will persist.
+
+##### Principle 3: Find the Shallow Points
+
+Not all inscription is equally deep. Some grooves are fresh. Some substrates are more plastic. Intervention is cheaper there.
+
+**Inscription Depth Ladder:**
+1. **Surface** (Reasoning) — "We agreed to do X" → Easy to change
+2. **Habit** (Training) — "We always do X" → Requires friction/reshaping
+3. **Norm** (Social) — "People like us do X" → Requires social coordination
+4. **Architecture** (Physical) — "The building makes us do X" → Requires demolition
+
+##### Principle 4: Build New Roads
+
+Sometimes easier than repaving old ones. Create alternative paths that outcompete for traffic.
+
+*Example:* Instead of trying to stop a bad meeting habit, create a new meeting format that's more attractive. Let the old format die of neglect.
+
+##### Principle 5: Don't Argue in a Captured Pivot Space
+
+If the pivot space itself is captured—if the vocabulary, the metrics, the rituals are all inscribed with the frame you're fighting—you cannot win by arguing within it.
+
+Shift pivot spaces (new metrics, new rituals, new artifacts) before debating content.
+
+*Example:* If "engagement metrics" are the captured pivot, don't argue that your feature has better engagement. Introduce a new metric (user wellbeing, task completion) and make that the pivot.
+
+---
+
+#### 4.6 Inscription Depth Assessment (Diagnostic Tool)
+
+Before intervening, assess the depth of inscription you're facing:
+
+| Depth | Signal | Edit Cost | Strategy |
+|-------|--------|-----------|----------|
+| **Surface** | Can be changed by announcement | Low | Direct communication |
+| **Habit** | Returns after attention lapses | Medium | Friction injection, new defaults |
+| **Norm** | "That's not how we do things" | High | Social proof, coalition building |
+| **Architecture** | Physically/structurally enforced | Very High | Redesign or exit |
+| **Substrate** | Encoded in the hardware itself | Extreme | Replace substrate or accept |
+
+**Rule:** Match intervention depth to inscription depth. Shallow interventions on deep inscriptions will fail. Deep interventions on shallow inscriptions waste resources.
+
+---
+
+#### 4.7 When Substrate Replacement Is the Only Option
+
+Sometimes inscription has gone too deep. The Cirrhotic Liver teaches this: when the substrate itself has been remodeled by accumulated traces, no amount of map-change or world-change will work.
+
+**Signs you've hit substrate lock:**
+- Deterioration continues despite removing the cause
+- Healing attempts create more damage (scar tissue)
+- Tipping point dynamics (long stability, sudden collapse)
+- The system "wants" to function correctly but can't
+
+**Options at substrate lock:**
+1. **Replace** — new substrate (transplant, new organization, new relationship)
+2. **Contain** — minimize damage, prevent spread
+3. **Exit** — remove yourself from the system
+4. **Accept** — managed coexistence with a permanent constraint
+
+There is no shame in recognizing substrate lock. The shame is in continuing to fight at the wrong level.
+
+---
 
 ### **5\. Communication & Coordination**
 
@@ -349,6 +488,99 @@ The Frame Lab is a scaffold, and scaffolds can be misused. Things to watch out f
 > * Moloch dynamics  
 > * Why "just change the norms" fails  
 > * Distributed inscription and the coordination problem
+
+#### 6.1 Monster Parties
+
+The Monster Manual treats monsters as if they hunt alone. They don't.
+
+Lived failure—addiction, burnout, organizational rot—almost never presents as a single pattern. It presents as **coordinated opposition**. Multiple monsters, differentiated roles, covering each other's weaknesses.
+
+> **If the Player is a collective, the Pathology is almost certainly a coalition.**
+
+See the Monster Manual's "Monster Parties" chapter for full treatment. Key DM insights:
+
+**Why single-target interventions fail:**
+- Attack the DPS → Healer increases output
+- Attack the Healer → Tank blocks alternatives
+- Attack the Tank → DPS ramps up
+- Parties compensate. You can't fight them one at a time.
+
+**The binding stress principle:**
+Monster Parties form around unresolved stress—an inference gap that won't close. The stress is the *gravity* holding the party together.
+
+If you wipe the party but the binding stress remains, the party will reform. New monsters will be recruited into the same roles.
+
+**Two lenses:**
+- **Combat Lens** — tactical, adversarial, "how do I defeat this?"
+- **Integration Lens** — structural, "what need is this configuration meeting?"
+
+Use Combat Lens to break acute patterns. Use Integration Lens to prevent reformation.
+
+---
+
+#### 6.2 The Scaled Tarrasque
+
+The Captured Narrator pattern scales. A group of reasoners can collectively defend a position with more sophistication than any individual.
+
+**How it works:**
+- Multiple agents generate *different* elaborate defenses
+- Cross-validation creates illusion of objectivity
+- "We checked each other, so we must be right"
+- But if all share compatible frames, they're just building a bigger cathedral
+
+**The trap:** Invoking the collective doesn't save you from capture. It scales it.
+
+**Counterplay:**
+- Asymmetry of roles (advocate vs. evaluator vs. process-watcher)
+- Temporal breaks (sleep, pauses, "revisit after X")
+- Status-safe abandonment (dropping a position can't cost identity)
+- Discomfort as signal (absence of discomfort is suspicious in high-competence systems)
+
+---
+
+#### 6.3 Moloch Dynamics
+
+Sometimes the Monster Party has no individual monsters—just a configuration that no one wants but everyone maintains.
+
+**The pattern:** Each agent, acting rationally from their local frame, produces a collective outcome that harms all agents including themselves.
+
+**Examples:**
+- Arms races
+- Tragedy of the commons
+- Status competitions that exhaust all participants
+- Meeting cultures that waste everyone's time but no one can unilaterally stop
+
+**Why it persists:**
+- Unilateral defection is punished
+- Coordination is costly
+- The configuration inscribes itself (becomes "how things are")
+- No individual agent is "the problem"
+
+**Intervention:**
+- Change the game (world-change at the rules level)
+- Credible coordination mechanisms (escrow, enforcement, binding commitments)
+- Exit (sometimes the only move)
+- Higher-level agent with authority to break the equilibrium
+
+---
+
+#### 6.4 Why "Just Change the Norms" Fails
+
+Norms are inscriptions. They resist editing.
+
+When you try to "just change the norms," you're fighting:
+- **Attention inscriptions** that make the old norm salient
+- **Tool inscriptions** that assume the old norm
+- **Memory inscriptions** that make the old norm feel "natural"
+- **Social inscriptions** that punish norm violation
+
+**The failure mode:** You announce the new norm. People nod. Behavior doesn't change. The old norm reasserts because it's inscribed at every level, and your announcement was surface-level.
+
+**What actually works:**
+- Inscribe the new norm (rituals, tools, environments)
+- Find the shallow points (where is the norm weakest?)
+- Build new roads (make the new norm easier than the old)
+- Don't argue in the old pivot space (change what gets measured)
 
 ### **7\. Failure Modes of This Book**
 
