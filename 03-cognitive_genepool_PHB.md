@@ -182,7 +182,7 @@ Mismatches matter:
 
 ---
 
-### 2.5 Stress
+### 2.4 Stress
 
 Stress is perturbation—anything that tests your capacity to maintain a goal state.
 
@@ -196,7 +196,7 @@ Stress becomes pathological when the signal converts to load—when the gap betw
 
 ---
 
-### 2.6 Inscription
+### 2.5 Inscription
 
 Actions leave traces.
 
