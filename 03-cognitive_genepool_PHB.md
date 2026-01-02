@@ -206,6 +206,7 @@ The question is which one is currently driving — and what it’s costing you.
 > **The Sledgehammer Rule** (Class Proliferation Kill-Switch)  
 > A class is only allowed if it owns a control function that cannot be subsumed by any existing class under polycomputing.
 > **If removing a class does not create a specific, recurring failure pattern, that class is decorative.**
+> Patterns, values, and constraints are not classes.
 
 **Wizard** — representation / world-model control  (slow System 2)  
 May suppress → blindness-by-action or proxy worship  
