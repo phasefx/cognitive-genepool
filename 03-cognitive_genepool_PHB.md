@@ -209,34 +209,41 @@ The question is which one is currently driving — and what it’s costing you.
 > Patterns, values, and constraints are not classes.
 
 **Wizard** — representation / world-model control  (slow System 2)  
+How humans build and trust representations.  
 May suppress → blindness-by-action or proxy worship  
 Susceptible under stress to → Reboot Loop, Captured Narrator, Ossified Scaffold, Proxy Worship, Analysis Paralysis
 
-**Artificer** — inscription  (slow System 2)  
+**Artificer** — inscription  (slow System 2)
+How humans modify substrates.  
 May suppress →  
 Susceptible under stress to → Ossified Scaffold, Cirrhotic Liver, Tool Drift, Automation Addiction
 
 **Bard** — meaning / narrative control  (slow System 2)  
+How humans coordinate meaning (converge on affordances).  
 May suppress → nihilism, stuck frames, motivational collapse  
 Susceptible under stress to → Captured Narrator, Narrative Inflation, Vibe Optimizer, Motivational Speaker
 
 **Ranger** — perceptual signal intake  (trained System 1)  
+How humans sample environments.  
 May suppress → model drift, surprise failures  
 Susceptible under stress to → Cassandra, Drift Runner, Weather Channel, Hypervigilant Scout
 
 **Rogue** — adversarial reasoning / assumption breaking  (System 2 probe)  
+How humans do adversarial reasoning.  
 May suppress → capture, brittleness, blind trust  
 Susceptible under stress to → Paranoid Generator, Second-Guess Spiral, Edge-Lord, Saboteur
 
 **Paladin** — goal & constraint coordination  (real-time System 2)  
+How humans bind future selves.  
 May suppress → drift, thrash, unfinished everything  
 Susceptible under stress to → Berserker, Metric Maximizer, Moral Crusader, Deadline Tyrant
 
 **Fighter** — real-time inhibition & actuation  (real-time System 2)  
+How humans override hesitation.  
 May suppress → hesitation, flinch, avoidance  
 Susceptible under stress to → Grinder, Pain Ignorer, Tunnel Pusher, Attrition Loop
 
-> **Note:** While the Cognitive Genepool framework as a whole is non-anthropocentric, the Player's Handbook is not. We are targeting human interfaces here, and are not claiming that all agents have these cognitive classes.
+> **Note:** While the Cognitive Genepool framework as a whole is non-anthropocentric, the Player's Handbook is not. We are targeting human interfaces here, and are not claiming that all agents have these cognitive classes. This is a design choice.
 
 ---
 
@@ -417,6 +424,9 @@ Safety, alliance, or stable ground to stand on
 **When to Invite the Rogue:**
 - When nothing seems to work  
 - When you suspect the game is being gamed
+
+> The classes are not "how intelligence works"
+> They are how humans interface with intelligence.
 
 ---
 
