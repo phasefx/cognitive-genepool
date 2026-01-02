@@ -118,6 +118,10 @@ You are a collective intelligence that runs **different cognitive modes**, often
 These modes are not personalities or traits.  
 They are **ways of processing reality** that are useful in some regimes and harmful in others. These modes may be shared by one or more of the "smaller intelligences" within your collective.
 
+We categorize these modes as System 1 and System 2 roles (not modules)
+> System 2 is not one thing; it’s whatever layer is currently supervising, inhibiting, or coordinating another.
+> System 1 is whatever is currently executing automatically.
+
 Pathology often emerges when:
 - one mode dominates under stress, and
 - refuses to relinquish control.
@@ -199,31 +203,31 @@ The question is which one is currently driving — and what it’s costing you.
 > A class is only allowed if it owns a control function that cannot be subsumed by any existing class under polycomputing.
 > **If removing a class does not create a specific, recurring failure pattern, that class is decorative.**
 
-**Wizard** — representation / world-model control  
+**Wizard** — representation / world-model control  (slow System 2)  
 May suppress → blindness-by-action or proxy worship  
 Susceptible under stress to → Reboot Loop, Captured Narrator, Ossified Scaffold, Proxy Worship, Analysis Paralysis
 
-**Artificer** — inscription  
+**Artificer** — inscription  (slow System 2)  
 May suppress →  
 Susceptible under stress to → Ossified Scaffold, Cirrhotic Liver, Tool Drift, Automation Addiction
 
-**Bard** — meaning / narrative control  
+**Bard** — meaning / narrative control  (slow System 2)  
 May suppress → nihilism, stuck frames, motivational collapse  
 Susceptible under stress to → Captured Narrator, Narrative Inflation, Vibe Optimizer, Motivational Speaker
 
-**Ranger** — perceptual signal intake  
+**Ranger** — perceptual signal intake  (trained System 1)  
 May suppress → model drift, surprise failures  
 Susceptible under stress to → Cassandra, Drift Runner, Weather Channel, Hypervigilant Scout
 
-**Rogue** — adversarial reasoning / assumption breaking  
+**Rogue** — adversarial reasoning / assumption breaking  (System 2 probe)  
 May suppress → capture, brittleness, blind trust  
 Susceptible under stress to → Paranoid Generator, Second-Guess Spiral, Edge-Lord, Saboteur
 
-**Paladin** — goal & constraint coordination  
+**Paladin** — goal & constraint coordination  (real-time System 2)  
 May suppress → drift, thrash, unfinished everything  
 Susceptible under stress to → Berserker, Metric Maximizer, Moral Crusader, Deadline Tyrant
 
-**Fighter** — real-time inhibition & actuation  
+**Fighter** — real-time inhibition & actuation  (real-time System 2)  
 May suppress → hesitation, flinch, avoidance  
 Susceptible under stress to → Grinder, Pain Ignorer, Tunnel Pusher, Attrition Loop
 
