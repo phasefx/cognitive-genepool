@@ -192,6 +192,8 @@ Think of it as a **dashboard warning light**:
 
 Stress becomes pathological when the signal converts to load—when the gap between "what is" and "what should be" won't close, and you can't stop caring.
 
+> What you feel is stress routed through a substrate (model, body, narrative, goals, signal).
+
 ---
 
 ### 2.6 Inscription
