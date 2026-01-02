@@ -182,7 +182,108 @@ Mismatches matter:
 
 ---
 
-### 2.4 Stress
+## 2.4 Stress as Scheduler Priority *(Not Math)*
+
+This section explains **why stress feels urgent**, without turning it into a diagnosis, a moral verdict, or a numeric model.
+
+This is **not an equation**.  
+It is a **cognitive compression**: a way to reason about when gaps demand coordination.
+
+---
+
+### Open Gaps and Priority Escalation
+
+If inference is the process of closing the gap between **Expectation** and **Reality**, then **stress** appears when that gap stays open.
+
+When a gap persists, the system’s scheduler raises its priority.
+
+This does **not** mean something has gone wrong.  
+It means something is unresolved.
+
+From the inside, this escalation can feel like pressure, urgency, dread, frustration, or overload.  
+From the outside, it looks like repeated attention, rumination, or cycling.
+
+---
+
+### The Scheduler’s Question
+
+When stress persists, the scheduler is not asking *“Who failed?”*  
+It is asking one of three practical questions:
+
+1. **Do we need more agency?**  
+   Can the world be changed? More leverage, allies, tools, authority, or time?
+
+2. **Do we need less burden?**  
+   Is the span too large, the resolution too sharp, or the horizon too long for the agency available?
+
+3. **Do we need to renegotiate the goal?**  
+   Is this still the right objective, constraint, or success condition?
+
+Stress is the signal that one of these moves is required.  
+It is **not** a character flaw.
+
+---
+
+### Burden and Relief *(Cognitive Compression)*
+
+A useful shorthand:
+
+- **Burden** grows with how much you are tracking and how sharply you can see it  
+  (span × resolution).
+
+- **Relief** grows with effective agency  
+  (the ability to make changes that actually reduce the gap).
+
+Stress escalates when **burden remains high** and **relief fails to arrive**.
+
+This is not a measurement model.  
+It is a way to notice *why* something feels heavy.
+
+---
+
+### Stress, Qualia, and the Dashboard
+
+Stress itself is a **scalar signal**: the gap is not closing.
+
+For systems with qualia, stress appears as the **felt shape of the affordance landscape**:
+what seems possible, blocked, urgent, or pointless.
+
+Different substrates route this signal differently.  
+What you feel depends on *where* the stress is expressed, not on stress itself.
+
+---
+
+### Important Non-Claims
+
+- Stress is not suffering by definition.  
+- Stress does not imply weakness or failure.  
+- Quiet telemetry is not the same as health.  
+- Loud telemetry is not the same as pathology.
+
+Sometimes the signal is appropriate.
+
+---
+
+### Why This Matters for Coordination
+
+Persistent stress means **the current configuration is insufficient**.
+
+If you keep applying the same mode that opened the gap, the signal will intensify.
+
+This is the moment to:
+- **share the spotlight**,  
+- invite another mode,  
+- or renegotiate the frame.
+
+The scheduler is asking for coordination, not self-judgment.
+
+---
+
+*(See §2.5 for how stress shifts from signal to load when resolution repeatedly fails.)*
+
+---
+
+### 2.5 Stress
 
 Stress is perturbation—anything that tests your capacity to maintain a goal state.
 
@@ -196,7 +297,7 @@ Stress becomes pathological when the signal converts to load—when the gap betw
 
 ---
 
-### 2.5 Inscription
+### 2.6 Inscription
 
 Actions leave traces.
 
