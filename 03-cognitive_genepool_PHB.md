@@ -245,7 +245,7 @@ It is a way to notice *why* something feels heavy.
 
 Stress itself is a **scalar signal**: the gap is not closing.
 
-For systems with qualia, stress appears as the **felt shape of the affordance landscape**:
+When qualia is present, stress appears as the **felt shape of the affordance landscape**:
 what seems possible, blocked, urgent, or pointless.
 
 Different substrates route this signal differently.  
