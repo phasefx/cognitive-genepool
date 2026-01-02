@@ -196,6 +196,10 @@ It makes alternatives harder to think.**
 
 Each class is a **stabilized cognitive mode**.
 
+> Classes are concurrent control processes, not turns or traits.  
+> Most failures come from suppressing one process for too long.
+> Some things are properties of coordination, not controllers.
+
 Everyone has access to all of them.  
 The question is which one is currently driving — and what it’s costing you.
 
