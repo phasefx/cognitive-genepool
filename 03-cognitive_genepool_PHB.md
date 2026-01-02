@@ -195,6 +195,9 @@ Each class is a **stabilized cognitive mode**.
 Everyone has access to all of them.  
 The question is which one is currently driving — and what it’s costing you.
 
+> **The Sledgehammer Rule** (Class Proliferation Kill-Switch)
+> A class is only allowed if it owns a control function that cannot be subsumed by any existing class under polycomputing.
+
 ---
 
 ### The Wizard — *Projection*
