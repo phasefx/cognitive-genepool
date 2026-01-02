@@ -187,7 +187,7 @@ Mismatches matter:
 This section explains **why stress feels urgent**, without turning it into a diagnosis, a moral verdict, or a numeric model.
 
 This is **not an equation**.  
-It is a **cognitive compression**: a way to reason about when gaps demand coordination.
+It is a **cognitive compression**: a way to reason about when gaps (inference gaps) demand coordination.
 
 ---
 
