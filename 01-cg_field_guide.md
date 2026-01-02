@@ -1,7 +1,7 @@
 # The Cognitive Genepool
 
 *Genes don’t transmit purpose.  
-They transmit patterns that are reconstructed.*
+They transmit patterned traces that are lossily reconstructed.*
 
 🚧 Draft — some rooms are still under construction.  
 Collaborators welcome. If you want to help fill in the stubs, see the Contributor Guide.  
