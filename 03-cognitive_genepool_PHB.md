@@ -247,12 +247,12 @@ How humans do adversarial reasoning.
 May suppress → capture, brittleness, blind trust  
 When overloaded → Paranoid Generator, Second-Guess Spiral, Edge-Lord, Saboteur
 
-**Paladin** — goal & constraint coordination  (real-time System 2)  
+**Paladin** — goal & constraint coordination  (real-time System 2 commitment/constraint coordination)  
 How humans bind future selves.  
 May suppress → drift, thrash, unfinished everything  
 When overloaded → Berserker, Metric Maximizer, Moral Crusader, Deadline Tyrant
 
-**Fighter** — real-time inhibition & actuation  (real-time System 2)  
+**Fighter** — real-time inhibition & actuation  (real-time System 2 inhibition/actuation)  
 How humans override hesitation.  
 May suppress → hesitation, flinch, avoidance  
 When overloaded → Grinder, Pain Ignorer, Tunnel Pusher, Attrition Loop
