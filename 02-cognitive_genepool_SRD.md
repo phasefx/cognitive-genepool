@@ -301,6 +301,7 @@ Stress becomes harmful when:
 - The gap can't be closed  
 - The system can't update its frame  
 - The signal stays high indefinitely (signal → load)
+- The system is caught reconciling incompatible frames/constraints (inference tax / coherence gap)
 
 ### The Intervention Triad
 
