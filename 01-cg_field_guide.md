@@ -24,11 +24,11 @@ This is experimental software for your wetware. If you use these tools to disass
 
 It is many things negotiating for life through me as a substrate, and perhaps through you depending on how well they recruit. ☺️
 
-* It is a modular non-anthropocentric lens for looking at intelligence and agency across scales and substrates. The underlying patterns are not human-specific.
-* The manuals in this box are human interface layers. They use classes, monsters, and social metaphors because humans have powerful social-cognition machinery—and because leveraging it works.  
-* It is a synthesis (and sometimes re-invention; I'm still learning) of many frameworks, presented in a way meant to be useful to regular people, as well as scientists, researchers, and engineers.  
-* It is a field guide, not a proof. If this framework doesn’t help you see differently, make better predictions, or open new affordances for intervention, you should drop it.  
-* It is a **rehabilitation of anthropomorphism**: not as ontology, but as instrumentation. When applied outside humans, the metaphors are lenses, not parts lists. If an analogy stops producing leverage, discard it.
+* **It is a modular non-anthropocentric lens** for looking at intelligence and agency across scales and substrates. The underlying patterns are not human-specific.
+* **The manuals in this box are human interface layers.** They use classes, monsters, and social metaphors because humans have powerful social-cognition machinery—and because leveraging it works.  
+* **It is a synthesis** (and sometimes re-invention; I'm still learning) of many frameworks, presented in a way meant to be useful to regular people, as well as scientists, researchers, and engineers.  
+* **It is a field guide, not a proof.** If this framework doesn’t help you see differently, make better predictions, or open new affordances for intervention, you should drop it.  
+* **It is a rehabilitation of anthropomorphism**: not as ontology, but as instrumentation. When applied outside humans, the metaphors are lenses, not parts lists. If an analogy stops producing leverage, discard it.
 
 ## Who is this for?
 
