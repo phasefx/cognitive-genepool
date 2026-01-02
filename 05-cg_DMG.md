@@ -775,4 +775,8 @@ When you try to "just change the norms," you're fighting:
 
 ---
 
+*This guide is substrate-neutral in theory and human-facing in practice.*
+
+---
+
 **Space intentionally left blank.**
