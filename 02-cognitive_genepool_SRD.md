@@ -37,7 +37,7 @@ Use it to get **leverage**. If it doesn’t change predictions or actions, treat
 - **Selection:** Which loops persist/propagate because they have causal leverage (fitness in context, not moral worth).
 - **Substrate:** The physical/social/technical medium that constrains possible regimes (brains, teams, markets, code).
 - **Persuadability:** How much/where a system can be steered by information, incentives, or structure.
-- **Qualia:** Term that names the fact that some systems have an interior, felt perspective on their affordance landscape.
+- **Qualia:** Term for interior, felt perspective. In this SRD we use it operationally to mean the felt shape of an affordance landscape (see “Qualia (Operational Stance)”)
 - **Stress:** Perturbation that tests a system's capacity to maintain its goal state. What appears on the system's dashboard when the gap between model and reality won't close. Stress is *signal* (useful telemetry) until resolution fails, at which point it becomes *load* (resource drain, waste heat). For systems with qualia, stress is the felt shape of an affordance landscape with no viable moves. See Part IV.
 - **Light cone (Cognitive):** The boundary of what a system *cares about*—the largest goal-scale it can meaningfully model and work toward. Paired with **Competency** for diagnosis (see Part III). Not the same as perception range. The light cone shines through conceptual/problem space, carving the region of possibilities the system can meaningfully care about and act within.
 
@@ -141,7 +141,7 @@ Levin note: Agency detection is also a test of the observer. Both over- and unde
 
 ### Qualia (Operational Stance)
 
-The **felt shape of the decoded affordance landscape**—the invitations, resistances, salience gradients, and "can/can't" surfaces a frame presents from the inside.
+We treat qualia as the **felt shape of the decoded affordance landscape**—the invitations, resistances, salience gradients, and "can/can't" surfaces a frame presents from the inside.
 
 Not mystical in this SRD. Control-relevant. What navigation feels like to a system that must navigate. This is the dashboard.
 
