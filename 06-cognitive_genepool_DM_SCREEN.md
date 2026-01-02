@@ -45,6 +45,7 @@
 * *Persuasion feels good but nothing moves?* → You are arguing with a **Setpoint (L1)**.  
 * *Behavior changes but meaning collapses?* → **Map Lag** (Goodharting).  
 * *System optimizes harder after punishment?* → You fed it **Reward (L2)**.  
+* *Stress persists despite intervention?* → Wrong level? No actuator? (Signal → Load).
 * *Nothing works?* → **Substrate Lock**. Replace or Exit.
 
 **3\. SELECT THE INTERVENTION**
@@ -76,7 +77,7 @@
 | ----- | ----- | ----- | ----- |
 | **The Metric Maximizer***(Zombie Berserker)* | Performance improves while stakeholders scream. | **Proxy Collapse:** The number eats the goal. | **Goal-Change***(Change the metric)* |
 | **The Ossified Scaffold***(The Tool-Trap)* | "If it's not in the dashboard, it doesn't exist." | **Blindness:** The tool replaces reality. | **World-Change***(Create parallel channel)* |
-| **The Cassandra***(The Screaming Void)* | High accuracy prediction, zero influence. | **Heat Death:** Awareness converted to stress. | **World-Change** *(Give Lever)* or **Map** *(Blinders)* |
+| **The Cassandra***(The Screaming Void)* | High accuracy prediction, zero influence. | **Heat Death:** Signal becomes load (stress without action). | **World-Change** *(Give Lever)* or **Map** *(Blinders)* |
 | **The Cirrhotic Liver***(The Scarred Substrate)* | Healing attempts create more damage. | **Lock-In:** History eliminates future options. | **Substrate-Change***(Replace or Exit)* |
 | **The Captured Narrator***(The Lawyer)* | Elaborate defense of a decision already made. | **Justification:** System 2 is corrupted. | **Map-Change***(Force Counterfactuals)* |
 
@@ -116,7 +117,7 @@
 
 * **Top Right (High Power + High Vision):** *Optimization without wisdom.* The system sees the target perfectly and crushes everything else to hit it.
 * **Top Left (High Power + Low Vision):** *Destructive force without strategy.* Panic spirals, viral content, mobs. Energy moving fast with no map.
-* **Bottom Right (Low Power + High Vision):** *Awareness converted to stress.* Seeing the train coming but tied to the rails. Heat death of agency.
+* **Bottom Right (Low Power + High Vision):** *Signal becomes load (stress without action).* Seeing the train coming but tied to the rails. Heat death of agency.
 * **Bottom Left (Low Power + Low Vision):** *Inertia.* Systems that resist change because they neither see the need nor have the energy. Legacy code, sunk costs.
 
 ---

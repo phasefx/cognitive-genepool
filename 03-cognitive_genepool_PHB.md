@@ -169,7 +169,7 @@ Your subjective experience is the *felt shape* of the decoded affordance landsca
 Two distinct properties:
 
 - **Concern:** how large a goal-space the system can meaningfully care about  
-- **Competence:** how effectively it can navigate that space under stress  
+- **Competence:** how effectively it can navigate that space under perturbation  
 
 Mismatches matter:
 
@@ -182,7 +182,19 @@ Mismatches matter:
 
 ---
 
-### 2.4 Inscription
+### 2.5 Stress
+
+Stress is perturbation—anything that tests your capacity to maintain a goal state.
+
+Think of it as a **dashboard warning light**:
+- **Stress as signal:** The light is on. Useful information. Something needs attention.
+- **Stress as load:** The light has been on for hours and you can't turn it off. Now you're paying resource costs just to maintain the alarm.
+
+Stress becomes pathological when the signal converts to load—when the gap between "what is" and "what should be" won't close, and you can't stop caring.
+
+---
+
+### 2.6 Inscription
 
 Actions leave traces.
 
@@ -213,37 +225,37 @@ The question is which one is currently driving — and what it’s costing you.
 **Wizard** — representation / world-model control  (slow System 2)  
 How humans build and trust representations.  
 May suppress → blindness-by-action or proxy worship  
-Susceptible under stress to → Reboot Loop, Captured Narrator, Ossified Scaffold, Proxy Worship, Analysis Paralysis
+When overloaded → Reboot Loop, Captured Narrator, Ossified Scaffold, Proxy Worship, Analysis Paralysis
 
 **Artificer** — inscription  (slow System 2)
 How humans modify substrates.  
 May suppress →  
-Susceptible under stress to → Ossified Scaffold, Cirrhotic Liver, Tool Drift, Automation Addiction
+When overloaded → Ossified Scaffold, Cirrhotic Liver, Tool Drift, Automation Addiction
 
 **Bard** — meaning / narrative control  (slow System 2)  
 How humans coordinate meaning (converge on affordances).  
 May suppress → nihilism, stuck frames, motivational collapse  
-Susceptible under stress to → Captured Narrator, Narrative Inflation, Vibe Optimizer, Motivational Speaker
+When overloaded → Captured Narrator, Narrative Inflation, Vibe Optimizer, Motivational Speaker
 
 **Ranger** — perceptual signal intake  (trained System 1)  
 How humans sample environments.  
 May suppress → model drift, surprise failures  
-Susceptible under stress to → Cassandra, Drift Runner, Weather Channel, Hypervigilant Scout
+When overloaded → Cassandra, Drift Runner, Weather Channel, Hypervigilant Scout
 
 **Rogue** — adversarial reasoning / assumption breaking  (System 2 probe)  
 How humans do adversarial reasoning.  
 May suppress → capture, brittleness, blind trust  
-Susceptible under stress to → Paranoid Generator, Second-Guess Spiral, Edge-Lord, Saboteur
+When overloaded → Paranoid Generator, Second-Guess Spiral, Edge-Lord, Saboteur
 
 **Paladin** — goal & constraint coordination  (real-time System 2)  
 How humans bind future selves.  
 May suppress → drift, thrash, unfinished everything  
-Susceptible under stress to → Berserker, Metric Maximizer, Moral Crusader, Deadline Tyrant
+When overloaded → Berserker, Metric Maximizer, Moral Crusader, Deadline Tyrant
 
 **Fighter** — real-time inhibition & actuation  (real-time System 2)  
 How humans override hesitation.  
 May suppress → hesitation, flinch, avoidance  
-Susceptible under stress to → Grinder, Pain Ignorer, Tunnel Pusher, Attrition Loop
+When overloaded → Grinder, Pain Ignorer, Tunnel Pusher, Attrition Loop
 
 > **Note:** While the Cognitive Genepool framework as a whole is non-anthropocentric, the Player's Handbook is not. We are targeting human interfaces here, and are not claiming that all agents have these cognitive classes. This is a design choice.
 
@@ -292,7 +304,7 @@ Sees structure others miss. Builds coherent models.
 **Signature Cost:**  
 May get lost in the map and forget the territory.
 
-**Under Stress May Collapse Into:**
+**When Overloaded May Collapse Into:**
 
 - **Reboot Loop** — restarting to remain in high-competence ideation  
 - **Captured Narrator** — logic recruited to defend a conclusion  
@@ -300,7 +312,7 @@ May get lost in the map and forget the territory.
 - *Proxy Worship* — optimizing what the model can see  
 - *Analysis Paralysis* — resolution without actuation
 
-Stress outcome depends on may be missing:
+Collapse depends on may be missing:
 External signal, finish line, or authority to act
 
 - When you need to understand why something works
@@ -317,14 +329,14 @@ Reads the room. Navigates novel terrain quickly.
 **Signature Cost:**  
 Often can’t justify or explain the gut read.
 
-**Under Stress May Collapse Into:**
+**When Overloaded May Collapse Into:**
 
 - **Cassandra** — sees the threat, has no lever
 - **Drift Runner** — constant motion without accumulation
 - **Weather Channel** — narrating conditions instead of choosing paths
 - **Hypervigilant Scout** — everything looks like terrain, nothing like a goal
 
-Stress outcome depends on what may be missing:
+Collapse depends on what may be missing:
 Commitment, insulation from noise, or goal clarity
 
 **When to Invite the Ranger:**
@@ -343,13 +355,13 @@ Changes what the situation *means*.
 **Signature Cost:**  
 Can mistake eloquence for truth.
 
-**Under Stress May Collapse Into:**
+**When Overloaded May Collapse Into:**
 - **Captured Narrator** — story self-seals against evidence
 - **Narrative Inflation** — everything becomes Meaningful™, nothing actionable
 - **Vibe Optimizer** — emotional coherence prioritized over outcomes
 - **Motivational Speaker** — framing as a substitute for change
 
-Stress outcome depends on what may be missing:
+Collapse depends on what may be missing:
 Falsifiers, friction, or embodiment
 
 **When to Invite the Bard:**
@@ -368,13 +380,13 @@ Turns effort into autopilot. Extends capacity.
 **Signature Cost:**  
 Tools can ossify and become prisons.
 
-**Under Stress May Collapse Into:**
+**When Overloaded May Collapse Into:**
 - **Ossified Scaffold** — infrastructure locks out alternatives
 - **Cirrhotic Liver** — fixes create scar tissue
 - **Tool Drift** — maintaining systems replaces purpose
 - **Automation Addiction** — anything manual feels illegitimate
 
-Stress outcome depends on what may be missing:
+Collapse depends on what may be missing:
 Re-evaluation, sunset clauses, or human judgment
 
 **When to Invite the Artificer:**
@@ -393,13 +405,13 @@ Finishes things. Resists drift.
 **Signature Cost:**  
 Can rigidify and moralize.
 
-**Under Stress May Collapse Into:**
+**When Overloaded May Collapse Into:**
 Berserker — narrow optimization, collateral damage
 Metric Maximizer — proxy promoted to sacred goal
 Moral Crusader — righteousness replaces discernment
 Deadline Tyrant — time pressure collapses option space
 
-Stress outcome depends on what may be missing:
+Collapse depends on what may be missing:
 Slack, feedback, or permission to renegotiate goals
 
 **When to Invite the Paladin:**
@@ -418,13 +430,13 @@ Breaks habits. Questions the obvious.
 **Signature Cost:**  
 Can over-index on hidden explanations.
 
-**Under Stress May Collapse Into:**
+**When Overloaded May Collapse Into:**
 Paranoid Generator — hidden patterns justify fear
 Second-Guess Spiral — every option undermined pre-action
 Edge-Lord — contrarianism as identity
 Saboteur — breaks systems to prove they were fragile
 
-Stress outcome depends on what may be missing:
+Collapse depends on what may be missing:
 Safety, alliance, or stable ground to stand on
 
 **When to Invite the Rogue:**
@@ -437,11 +449,11 @@ Safety, alliance, or stable ground to stand on
 ---
 
 ## 4. From Class to Monster  
-### Stress Responses, Not Evil
+### Overload Responses, Not Evil
 
 A **monster** is what happens when a class:
 
-- is under sustained stress, and  
+- is under sustained load (stress signal without resolution), and  
 - refuses to relinquish control.
 
 Monsters are **verbs, not identities**.

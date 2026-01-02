@@ -472,7 +472,7 @@ Legend: ❌ Ineffective | ⚠️ Risky/Temporary | ☠️ Backfires (strengthens
 
 #### COMBAT CARD (Normative Dashboard)
 
-**Pattern:** A system that models catastrophic future states with high fidelity but possesses no actuators to prevent them, converting the "Inference Gap" entirely into waste heat (stress).
+**Pattern:** A system that models catastrophic future states with high fidelity but possesses no actuators to prevent them—stress signal (accurate detection) converting entirely into stress load (waste heat) because no action can follow.
 
 **Why it matters:** It identifies where an organization or mind is bleeding energy; high awareness without agency is not wisdom, it is structural damage.
 

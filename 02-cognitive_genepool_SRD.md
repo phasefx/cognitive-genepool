@@ -37,6 +37,7 @@ Use it to get **leverage**. If it doesn’t change predictions or actions, treat
 - **Selection:** Which loops persist/propagate because they have causal leverage (fitness in context, not moral worth).
 - **Substrate:** The physical/social/technical medium that constrains possible regimes (brains, teams, markets, code).
 - **Persuadability:** How much/where a system can be steered by information, incentives, or structure.
+- **Stress:** Perturbation that tests a system's capacity to maintain its goal state. What appears on the system's dashboard when the gap between model and reality won't close. Stress is *signal* (useful telemetry) until resolution fails, at which point it becomes *load* (resource drain, waste heat). For systems with qualia, stress is the felt shape of an affordance landscape with no viable moves. See Part IV.
 - **Light cone (Cognitive):** The boundary of what a system *cares about*—the largest goal-scale it can meaningfully model and work toward. Paired with **Competency** for diagnosis (see Part III). Not the same as perception range. The light cone shines through conceptual/problem space, carving the region of possibilities the system can meaningfully care about and act within.
 
 > **Note:** In Levin’s framework, cognitive light cones implicitly assume sufficient competence for control; this project separates care (cone scope) from competence (navigation capacity) to make mismatches diagnosable and interventions targetable.
@@ -257,7 +258,7 @@ When competency exceeds concern, you get **optimization without wisdom**—solvi
 
 Rather than fixed identities, think of these as **modes**—patterns a system can be performing:
 
-**The Cassandra:** High-fidelity modeling of problems it cannot affect. Inference engine revving, no actuators. Stress as waste heat.
+**The Cassandra:** High-fidelity modeling of problems it cannot affect. Inference engine revving, no actuators. Stress signal (accurate detection) degrading into stress load (waste heat) because no action can follow.
 
 **The Berserker:** High competency, narrow concern. Optimizes hard within its frame, generates externalities it can't perceive. The scary ones aren't superintelligent—they're dumb optimizers with good telemetry, running at scale. (See: engagement algorithms.)
 
@@ -284,15 +285,21 @@ Example: Newtonian Physics is High Fidelity at the scale of a bridge, but Low Fi
 
 ## Part IV: Stress and Intervention
 
-### Stress as Telemetry
+### Stress as Perturbation and Telemetry
 
-If inference closes the gap between expectation and reality, then **stress is the felt sense of an uncloseable gap**.
+**Stress** is any perturbation that tests a system's capacity to maintain its goal state. This is the substrate-neutral, Levin-compatible definition: stress is what the control loop encounters when the environment pushes back.
 
-Stress is signal, not failure. It becomes harmful when:
+For systems with qualia (or functional analogs), stress also appears as **telemetry**—the felt sense of an uncloseable gap between expectation and reality. This is the dashboard showing a warning light.
+
+**Two modes:**
+- **Stress as signal:** Useful information. The gap is detected, options exist, resolution is possible.
+- **Stress as load:** Resource drain. The signal persists, no resolution arrives, the system pays maintenance costs on an alarm it cannot silence.
+
+Stress becomes harmful when:
 
 - The gap can't be closed  
 - The system can't update its frame  
-- The signal stays high indefinitely
+- The signal stays high indefinitely (signal → load)
 
 ### The Intervention Triad
 

@@ -57,7 +57,7 @@
 * Pivot spaces  
 * Cognitive Pidgin  
   * **SALVAGE: The Dogs** ← *domestication as worked example of anthropomorphism-as-bridge*  
-* Stress as telemetry / arbitration signal  
+* Stress as telemetry (signal vs load)  
 * **SALVAGE: Cancer as failed social contract** ← *cells pivoting to immediate survival; destructive communication is still communication*
 
 **6\. Collective Pathologies**
@@ -406,7 +406,7 @@ The Frame Lab is a scaffold, and scaffolds can be misused. Things to watch out f
 * Pivot spaces  
 * Cognitive Pidgin  
   * **SALVAGE: The Dogs** ← *domestication as worked example of anthropomorphism-as-bridge*  
-* Stress as telemetry / arbitration signal  
+* Stress as telemetry (signal vs load)  
 * **SALVAGE: Cancer as failed social contract** ← *cells pivoting to immediate survival; destructive communication is still communication*
 
 ### **6\. Collective Pathologies**
