@@ -303,6 +303,8 @@ Stress becomes harmful when:
 - The signal stays high indefinitely (signal → load)
 - The system is caught reconciling incompatible frames/constraints (inference tax / coherence gap)
 
+Persistent stress is the scheduler raising priority on an unresolved gap: it calls for world-change, map-change, or goal-change—not moral judgment.
+
 ### The Intervention Triad
 
 Three ways to close an inference gap:
