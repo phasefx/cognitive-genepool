@@ -3335,4 +3335,8 @@ Every cognitive system must budget three finite resources. You can rarely maximi
 
 ---
 
+*Monsters are patterns; the statblocks are written for human pattern-recognition.*
+
+---
+
 **Space intentionally left blank.**
