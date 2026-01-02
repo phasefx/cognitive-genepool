@@ -2600,6 +2600,9 @@ Monster Parties coordinate through **comms**: shared narratives, rituals, concea
 
 **Why this matters:** When comms are disrupted, the party loses synergy even if no member is defeated. This is why "change the context" often works better than "fight the behavior."
 
+>**Comms as Inscription**  
+>The party's coordination channel isn't just communication—it's inscription. Narratives, rituals, cues, and concealment write traces into the substrate that bias future perception and action. This is why disrupting comms has lasting effects: you're not just interrupting a signal, you're preventing new inscription and allowing old grooves to fade.
+
 ---
 
 ##### Binding Stress (What Holds the Party Together)
