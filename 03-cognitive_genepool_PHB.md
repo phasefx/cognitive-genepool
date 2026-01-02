@@ -113,16 +113,16 @@ Putting the book down is always a valid move.
 
 You are not a unitary controller.
 
-You are a system that runs **different cognitive modes** depending on context and stress.
+You are a collective intelligence that runs **different cognitive modes**, often concurrently, depending on context and stress.
 
 These modes are not personalities or traits.  
-They are **ways of processing reality** that are useful in some regimes and harmful in others.
+They are **ways of processing reality** that are useful in some regimes and harmful in others. These modes may be shared by one or more of the "smaller intelligences" within your collective.
 
 Pathology often emerges when:
 - one mode dominates under stress, and
 - refuses to relinquish control.
 
-This book exists to help you **notice which mode is driving**, and whether it’s still appropriate.
+This book exists to help you **notice which mode is driving**, or which are fighting over the steering wheel, and whether it’s still appropriate.
 
 ---
 
