@@ -21,7 +21,26 @@ This book gives you a dangerous power: **diagnosis**. It lets you look at a pers
 
 That power is only safe when it is **instrumental**—used to find leverage, reduce harm, and improve navigation. To use this guide, agree to these constraints:
 
-### 1) Patterns are verbs, not nouns
+### 1) **Consent & Scope (Non-Negotiable)**
+
+This guide enables **systems-level intervention**. That power must be constrained.
+
+* **For yourself:** You have root access. Edit freely.
+* **For others:** You may not rewire systems that have not asked for your help
+  — unless you have an explicit duty of care (e.g., parent, physician, public authority).
+
+> **Rule:** Engineering without consent is just **high-competence bullying**.
+
+If a system has not consented to intervention, your tools are limited to:
+
+* Boundary-setting
+* Exit
+* Refusal
+* Defensive world-changes that protect *you*
+
+Diagnosis does not grant permission.
+
+### 2) Patterns are verbs, not nouns
 
 No one *is* a monster. Systems **run** patterns under specific conditions.
 
@@ -30,13 +49,13 @@ No one *is* a monster. Systems **run** patterns under specific conditions.
 
 If you can’t describe the behavior without the jargon, you don’t have a diagnosis—you have a story.
 
-### 2) Diagnosis is for leverage, not blame
+### 3) Diagnosis is for leverage, not blame
 
 The only reason to name a pattern is to find the lever that changes it (world / map / goal / constraint / substrate).
 
 If you can name the monster but cannot name an intervention hypothesis, you are not diagnosing—you are name‑calling.
 
-### 3) The stop rule (hallucination check)
+### 4) The stop rule (hallucination check)
 
 Frameworks are also monsters: they can capture attention and start “seeing themselves” everywhere.
 
