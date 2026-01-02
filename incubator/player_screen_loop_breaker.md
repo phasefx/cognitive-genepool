@@ -95,4 +95,3 @@ Counter-Moves (pick one, do it now)
 
 *This is a mirror, not a manual. If it feels like homework, you're captured.*
 
-*Collaboratively designed by Jason, Claude, Gemini, and GPT. New Year's Day, 2025.*

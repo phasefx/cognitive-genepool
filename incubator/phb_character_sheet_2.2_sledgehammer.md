@@ -133,5 +133,4 @@
 
 ---
 
-*Collaboratively designed by Jason, Claude, Gemini, and GPT. New Year's Day, 2025.*
 *The genepool is open. Mutations welcome.*

@@ -180,4 +180,3 @@ If the framework stops generating insight, drop it and go touch grass.
 
 ---
 
-*Collaboratively designed by Jason, Claude, Gemini, and GPT. New Year's Day, 2025.*

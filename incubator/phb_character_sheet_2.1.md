@@ -77,5 +77,4 @@
 
     ---
 
-    *Collaboratively designed by Jason, Claude, and Gemini. New Year's Day, 2026.*
     *The genepool is open. Mutations welcome.*
