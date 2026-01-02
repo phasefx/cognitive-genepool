@@ -2180,6 +2180,8 @@ And you never let anyone claim it's been permanently slain.
 
 ---
 
+https://www.youtube.com/watch?v=_gjYcA0emqw
+
 #### COMBAT CARD (Normative Dashboard)
 
 **Pattern:** A system that restarts projects at the point where synthesis becomes work, mistaking "starting fresh" for progress.
