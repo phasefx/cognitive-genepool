@@ -1,1 +1,1 @@
-01-cognitive_genepool_field_guide.md
+01-cg_field_guide.md
