@@ -19,6 +19,8 @@ What it is *not* for:
 
 You are not a Wizard.  
 You are not a Paladin.
+You are not a character with many classes.
+You are a party learning how to coordinate.
 
 You are a system that sometimes processes *like* a Wizard, sometimes *like* a Paladin.  
 The classes are **verbs, not nouns** — modes you can notice, invite, and swap.
