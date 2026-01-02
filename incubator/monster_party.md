@@ -562,7 +562,8 @@ The TPK impulse arises because the player can't see any other way to force regim
 
 **Key insight:** The DPS isn't optimizing pleasure by Stage 3. It's optimizing *relief from withdrawal*—a problem created by its own previous operation. The loop becomes self-sustaining.
 
-**Party Wipe approach:** 1. External scaffold (treatment, program) to displace Tank
+**Party Wipe approach:** 
+1. External scaffold (treatment, program) to displace Tank
 2. Medical support to dampen DPS while fighting other roles
 3. Community/sponsor to provide alternative Healer narrative
 4. Time and abstinence to let Controller damage stabilize
@@ -681,7 +682,7 @@ Often the Controller that joined last—the accumulated substrate damage from a 
 ##### The Metric Maximizer
 
 Almost always runs with support in the wild. A solo Metric Maximizer is fragile—just change the metric. If a Metric Maximizer is resilient, look for:
-- A Captured Narrator defending thtric's validity
+- A Captured Narrator defending the metric's validity
 - An Ossified Scaffold making the metric infrastructural
 - Controller damage from previous optimization attempts
 
@@ -706,7 +707,7 @@ Sometimes you're not fighting a party inside yourself. You're *part of a party* 
 The same analysis applies:
 - What role are you playing?
 - What party are you protecting?
-- What would have to change for the party tdissolve?
+- What would have to change for the party to dissolve?
 
 This is uncomfortable but necessary. Monster Parties are not something that happens to bad people. They're an emergent property of goal-directed systems under constraint.
 
@@ -759,6 +760,3 @@ When trying to understand a Monster Party configuration:
 
 *And that was the moment the campaign turned."*
 
----
-
-**Space intentionally left blank.**
