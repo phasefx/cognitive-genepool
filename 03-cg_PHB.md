@@ -111,6 +111,18 @@ Putting the book down is always a valid move.
 
 ---
 
+## One more time
+
+**On Anthropomorphism and Self-Use**
+
+This handbook is written for humans. It uses human metaphors because it is meant to be felt from the inside.
+
+The classes, roles, and monsters here are not claims about what you are. They describe modes your system can enter under load. You are not a class. You are not a monster. You are a party running a configuration.
+
+When these metaphors stop producing leverage or start hardening into identity, discard them.
+
+---
+
 ## 1. The Player Is Not One Thing
 
 You are not a unitary controller.
