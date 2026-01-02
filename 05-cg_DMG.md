@@ -481,6 +481,109 @@ There is no shame in recognizing substrate lock. The shame is in continuing to f
 > * Stress as telemetry (signal vs load)  
 > * **SALVAGE: Cancer as failed social contract** ← *cells pivoting to immediate survival; destructive communication is still communication*
 
+> Tag Legend  
+> 1. **{core}** — Load-bearing definitions, architectural claims  
+> 2. **{eng}** — Testable predictions (MUST have: regime \+ observable \+ falsifier)  
+> 3. **{method}** — Usage protocols, how-to guidance  
+> 4. **{meta}** — Worldview bets, speculative extensions (label as such)  
+> 5. **{met}** — Metaphors, illustrative language (not literal)  
+> 6. **{ai}** — Draft/provisional content (treat with skepticism)
+> 7. **::** - Margin note
+
+#### 5.1 Spaces
+
+> **In Brief**  
+> * Possibility space: **what could be**  
+> * Problem space: **what I can aim for and traverse**  
+> * Latent space: **what I can carry in my head/tooling**  
+> * Recursion: **how solutions become affordance maps**
+
+##### 5.1.1 Latent Spaces: the map
+
+There's a mathematical definition for this dealing with manifolds and dimensionality, but I think of a latent space as a connected dataset that has been lossily compressed. **Salient features** are **sampled**, **preserved**,  and **encoded**, and a lot of information is thrown away to be later inferred, interpreted, interpolated, etc. by a system or algorithm via **computation**. What is salient depends on the **goals** of the system.  I think **all intelligence can be boiled down to inference in latent spaces**. Language is a latent space, mathematical systems are latent spaces, our genetic code are latent spaces, our mental models are latent spaces, our perceptions are latent spaces, and even our memories are latent spaces. The salient features can also be **thought of as affordances** within the latent space.
+
+* :: intelligent systems can themselves be latent spaces  
+* :: latent spaces with bootstrapping  
+* :: projection  
+* :: computation \= reproducible? process for state transition  
+* :: topography: Density and Leverage; see Scaffolding
+
+###### 5.1.1.1 Pivot Spaces are shared maps, a bridge between other maps and the "qualia-space" in each agent's pocket universe.
+
+* {eng}{core}  Communication is not “transmission of meaning/ground truth,” but **synchronization of shared affordances**  
+* A **pivot space** is the latent space an agent can access to coordinate with others. .  
+* :: It doesn't matter if my \_green\_ is the same as your \_green\_. We synchronize on a family of affordances that \_green\_ gives us.  
+* {method} Pivot-space moves (practical)  
+  When a disagreement is stuck, you usually need one of these moves:  
+  * Move A — Reframe to a new pivot: switch from “who’s right” to a shared scoring function (metrics, deadlines, protocols).  
+  * Move B — Increase bandwidth: richer pivot (diagrams, examples, code, demonstrations) instead of pure words.  
+  * Move C — Decrease bandwidth: force compression (checklists, a single metric, a single decision rule).  
+  * Move D — Negotiate affordances: explicitly list what actions each party thinks are available; align those.  
+* :: Math often works as a pivot because it has stable attractors many agents converge on. 
+
+##### 5.1.2 Inference: the process
+
+Another word that means different things to different disciplines. I knew of it from logic and saw it in use with AI. I have two lenses for this one:
+
+* **Inference is the work done with a latent space, however it is done.**  
+* {meta} "Inference" is my primitive. I'm not defining it in terms of something more basic. I'm using it to define everything else.  
+* Inference is the process by which a system uses its current structure to constrain, select, or generate its next state in a way that reduces uncertainty relative to its goals or survival conditions.  
+* Encode/decode are analytically separable; real systems interleave them (act changes data; data changes model; model changes action).  
+    
+* :: Apparently, I think everything is inference. Better than computation? :-)  
+* :: Originally, I was referring to both compression and decompression here.  
+  * :: as it's a bit of a yin/yang situation.  Latent space in, latent space out  
+  * :: almost like transcoding, pivoting through latent spaces  
+* :: generalization versus discrimination, exaptation and fidelity  
+* :: hallucination is technically decompression error or prediction failure, but is sometimes adaptive (for example, with alleviating stress, cognitive dissonance, etc.). When the map is not a great fit for the territory
+
+###### 5.1.2.1 Inference Gaps
+
+The "space" between reality and goal/prediction.
+
+* :: measure of suffering/stress/frustration? mmm.. scalar value is not enough here; we need a vector. Moving toward closure feels "good", moving away from closure or not moving at all, feels "bad"  
+  * :: Happiness isn't the *absence* of an Inference Gap (that’s boredom or death).  
+  * :: Happiness is the *high-velocity closure* of a meaningful gap.  
+  * :: note to look into **Control Theory**  
+* :: inference is the process of closing the gap between Expectation and Reality, Goal and Model/Sampling/Perception
+
+##### 5.1.3 Possibility Spaces: the territory
+
+This is a map of all possible states, but I'm not used to applying this lens to things; previously I would fold this into Problem Spaces. What I'm wondering about might be the equivalent to "dead code" in programming. I can imagine states that are technically possible, in that you can construct a hypothetical example of a system in that state, but in practice, you can never get there from any other state. So are those part of a Possibility Space or not? Does it matter? Does it make sense to call these conditions incoherent? What is most useful?
+
+* :: find the disciplines that use this  
+* :: dig into coherence as a term of art  
+  * **:: Incoherent** usually means “internally inconsistent given the rules” (like a logical contradiction).  
+  * **:: Unreachable** can mean “consistent but not attainable from any realistic trajectory” (e.g., requires infinite precision, violates conservation laws in the full system, or sits in a disconnected component of the state graph).  
+  * :: If a goal state is *possible but unreachable*, you need new affordances/inscriptions (change action set or constraints), not better reasoning inside the same problem space.  
+  * :: If it’s *incoherent*, you need to revise the frame/model itself.  
+* :: is this "reality"?  
+* **:: Possibility space (formal):** all states consistent with the rules/model you’ve chosen.  
+* **:: Reachable space (pragmatic):** states that are reachable from *here* under available dynamics/actions and constraints.
+
+##### 5.1.4 Problem Spaces: the possible routes
+
+These are slices or subsets of Possibility Spaces pertaining to specific problems or goals. These are the paths an agent might take, the affordances an agent might use, and the constraints serving as obstacles. Is it useful to distinguish between Possibility Spaces and Problem Spaces?
+
+* :: layman interpretations versus terms of art  
+* :: what’s relevant \+ reachable \+ steerable (as far as I know) for this goal  
+* **:: Possibility space** is substrate-defined (plus whatever model boundary you choose).  
+* **:: Problem space** is frame-defined: it is possibility space **filtered through** P, A, Π, G, C.  
+* :: Two agents can share a possibility space but have different problem spaces because their affordances, goals, and constraints differ.
+
+:: TODO: Expand 5.3 and 5.4 into **routes, heuristics,** and **scaffolds**
+
+##### 5.1.5 Recursion: see also, Recursion
+
+Do we have a loop here where problem spaces turn into latent spaces, and vice versa? Yes. The successful solution to a problem becomes the compressed latent space (or scaffold) for solving the next. This is the core engine of learning and iteration. **:: compressed solution**
+
+* :: Perception-Action Cycle  
+* :: feedback loops and mode collapse, confirmation bias  
+* :: **exploitation versus exploration**: is this how you avoid **infinite regress**?  
+  * another mechanism: **local bedrock via stable pivots**—you stop regressing when a pivot is “good enough” to coordinate action and prediction  
+* :: attention mechanisms  
+* :: meta-cognition
+
 ### **6\. Collective Pathologies**
 
 > Draft Notes  
