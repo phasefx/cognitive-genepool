@@ -18,6 +18,7 @@
 * How to use this  
 * How to read an entry  
 * **Three Critical Warnings**
+* One more time
 
 2\. The Shape of a Monster
 
@@ -190,6 +191,18 @@ If yes, use the stance. If no, drop it.
 ---
 
 *"You don't ask if the owlbear is really conscious. You ask what it does when threatened."*
+
+---
+
+### One more time
+
+> Monsters Are Not People
+
+The Monster Manual describes patterns, not entities. A monster is something a system does, not something a person is.
+
+We use agent language because it improves prediction under time pressure. This is an intentional stance, not a metaphysical claim.
+
+If you find yourself assigning monsters to individuals instead of to behaviors-in-context, stop. You have lost the map.
 
 ---
 
