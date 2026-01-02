@@ -25,6 +25,11 @@ This SRD is **not**:
 
 Use it to get **leverage**. If it doesn’t change predictions or actions, treat it as decoration and swap frames.
 
+## Anthropomorphism note.
+The Cognitive Genepool is substrate-neutral. These documents are human-facing interfaces.
+
+Patterns generalize across systems; metaphors do not. Any application outside humans must specify its mapping explicitly. If no mapping exists, the metaphor does not apply.
+
 ## Glossary (SRD Terms)
 
 - **Agent:** A system that can be usefully modeled as pursuing outcomes across time via feedback (see Minimum Agency Test).
