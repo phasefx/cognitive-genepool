@@ -245,6 +245,10 @@ Susceptible under stress to → Grinder, Pain Ignorer, Tunnel Pusher, Attrition 
 
 > **Note:** While the Cognitive Genepool framework as a whole is non-anthropocentric, the Player's Handbook is not. We are targeting human interfaces here, and are not claiming that all agents have these cognitive classes. This is a design choice.
 
+> **On Anthropomorphism**
+> This system uses human metaphors because it is designed for humans.
+> When applied to organizations, AIs, or ecosystems, the classes should be treated as lenses, not literal components.  Any non-human application must specify what "counts as" a Wizard, Bard, etc. in that system — or the mapping is invalid.  
+> If an analogy stops producing leverage, discard it.
 ---
 
 ### The Fighter — *Actuation*
