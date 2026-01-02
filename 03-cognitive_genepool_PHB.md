@@ -458,8 +458,7 @@ A **monster** is what happens when a class:
 
 Monsters are **verbs, not identities**.
 
-You do not defeat your own monster with the same mode that summoned it.  
-You must **multi-class** — invite a different mode to the table.
+You do not resolve a monster with the same mode that summoned it. Share the spotlight.
 
 > [BOUNDARY NOTE]  
 > This book names monsters only to support self-navigation.  
