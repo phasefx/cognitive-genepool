@@ -360,7 +360,7 @@ How humans override hesitation.
 May suppress → hesitation, flinch, avoidance  
 When overloaded → Grinder, Pain Ignorer, Tunnel Pusher, Attrition Loop
 
-> **Note:** While the Cognitive Genepool framework as a whole is non-anthropocentric, the Player's Handbook is not. We are targeting human interfaces here, and are not claiming that all agents have these cognitive classes. This is a design choice.
+> **Note:** While the underlying Cognitive Genepool framework is non-anthropocentric, the Player's Handbook is not. We are targeting human interfaces here, and are not claiming that all agents have these cognitive classes. This is a design choice. The theory is substrate-neutral; the manuals are human-facing.
 
 > **On Anthropomorphism**
 > The class system uses human metaphors because it is designed for humans.
