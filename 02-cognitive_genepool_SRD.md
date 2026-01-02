@@ -46,6 +46,8 @@ Use it to get **leverage**. If it doesn’t change predictions or actions, treat
 - **System 2a** (real-time) = interrupts & coordination
 - **System 2b** (post-hoc) = cartography & inscription
 
+> System 2 is not one thing; it’s whatever layer is currently supervising, inhibiting, or coordinating another.
+
 ## The One-Page Procedure (DM Screen)
 
 When something feels “stuck”:
