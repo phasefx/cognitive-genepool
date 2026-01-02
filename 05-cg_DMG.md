@@ -65,6 +65,18 @@ Frameworks are also monsters: they can capture attention and start “seeing the
 
 > **Rule of play:** The map serves the table. The table does not serve the map.
 
+### One more time
+
+**Authority, Consent, and Anthropomorphism**
+
+This guide assumes you are operating on systems larger than yourself: teams, organizations, relationships, institutions.
+
+The framework is non-anthropocentric in scope but anthropocentric in intervention. You are acting through human interfaces: language, incentives, norms, environments.
+
+Rule: Diagnosis without consent is power. Use it carefully.
+Naming a pattern does not grant moral authority, social dominance, or license to coerce. “Monster” is a diagnostic abstraction, not a judgment of personhood.
+
+If your use of this framework feels like winning arguments, cornering people, or explaining others to themselves without permission, you are no longer doing diagnosis — you are doing high-level bullying.
 
 ### **1\. What This Book Is For**
 
