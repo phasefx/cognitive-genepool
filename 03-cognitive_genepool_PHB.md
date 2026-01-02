@@ -199,7 +199,66 @@ The question is which one is currently driving — and what it’s costing you.
 > A class is only allowed if it owns a control function that cannot be subsumed by any existing class under polycomputing.
 > **If removing a class does not create a specific, recurring failure pattern, that class is decorative.**
 
+**Wizard** — representation / world-model control  
+May suppress → blindness-by-action or proxy worship  
+Susceptible under stress to → Reboot Loop, Captured Narrator, Ossified Scaffold, Proxy Worship, Analysis Paralysis
+
+**Artificer** — inscription  
+May suppress →  
+Susceptible under stress to → Ossified Scaffold, Cirrhotic Liver, Tool Drift, Automation Addiction
+
+**Bard** — meaning / narrative control  
+May suppress → nihilism, stuck frames, motivational collapse  
+Susceptible under stress to → Captured Narrator, Narrative Inflation, Vibe Optimizer, Motivational Speaker
+
+**Ranger** — perceptual signal intake  
+May suppress → model drift, surprise failures  
+Susceptible under stress to → Cassandra, Drift Runner, Weather Channel, Hypervigilant Scout
+
+**Rogue** — adversarial reasoning / assumption breaking  
+May suppress → capture, brittleness, blind trust  
+Susceptible under stress to → Paranoid Generator, Second-Guess Spiral, Edge-Lord, Saboteur
+
+**Paladin** — goal & constraint coordination  
+May suppress → drift, thrash, unfinished everything  
+Susceptible under stress to → Berserker, Metric Maximizer, Moral Crusader, Deadline Tyrant
+
+**Fighter** — real-time inhibition & actuation  
+May suppress → hesitation, flinch, avoidance  
+Susceptible under stress to → Grinder, Pain Ignorer, Tunnel Pusher, Attrition Loop
+
+> **Note:** While the Cognitive Genepool framework as a whole is non-anthropocentric, the Player's Handbook is not. We are targeting human interfaces here, and are not claiming that all agents have these cognitive classes.
+
 ---
+
+### The Fighter — *Actuation*
+
+**Mode:**  
+Effortful control, sustained execution, doing the thing despite resistance
+
+**Context Sensitivity:**  
+Effortful control is adaptive when friction is unavoidable; it becomes harmful when persistence replaces feedback, recovery, or reconsideration.
+
+**Strength:**  
+Can apply force where others stall. Holds the line through discomfort.
+
+**Signature Cost:**  
+Consumes energy quickly. Poor at noticing when effort is no longer the bottleneck.
+
+**Common Stress Expressions (Context-Dependent):**  
+When Actuation continues after the problem has shifted away from execution, it may express as:
+
+- *Grinder* — brute-force persistence despite diminishing returns  
+- *Pain Ignorer* — overriding bodily or emotional signals  
+- *Tunnel Pusher* — continuing a chosen action while conditions change  
+- *Attrition Loop* — exhausting self or others instead of adapting  
+
+Which expression appears depends on what’s missing:  
+feedback, recovery, reframing, or permission to stop.
+
+**When to Invite the Fighter:**
+- When the plan is clear and hesitation is the bottleneck  
+- When discomfort, not confusion, is the limiting factor
 
 ### The Wizard — *Projection*
 
