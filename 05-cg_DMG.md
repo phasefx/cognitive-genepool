@@ -13,38 +13,39 @@
 
 ---
 
-### **0\. Session Zero: The Engineering Contract
+## 0. Session Zero: The Engineering Contract
 
-    Before you pick up the wrench, you must check your credentials.
+*Before you pick up the wrench, check your credentials.*
 
-This book moves from Navigation (surviving the world) to Architecture (changing the world). It offers tools to edit goals, rewire constraints, and reshape the environments of other agents.
+This book gives you a dangerous power: **diagnosis**. It lets you look at a person, a team, a policy, or yourself and say: “I know what loop this is.”
 
-To use this book, you must agree to three constraints:
-1. Consent to Engineer.
+That power is only safe when it is **instrumental**—used to find leverage, reduce harm, and improve navigation. To use this guide, agree to these constraints:
 
-You are not the protagonist of other people's lives.
+### 1) Patterns are verbs, not nouns
 
-    For Yourself: You have root access. Edit away.
+No one *is* a monster. Systems **run** patterns under specific conditions.
 
-    For Others: Do not rewire systems that have not asked for your help, unless you have explicit duty-of-care (Parent/Government).
+- **Bad use:** “You are a Cassandra.” *(identity labeling)*
+- **Good use:** “You’re running a Cassandra loop right now.” *(behavioral diagnosis)*
 
-    The Rule: Engineering without consent is just high-competence bullying.
+If you can’t describe the behavior without the jargon, you don’t have a diagnosis—you have a story.
 
-2. Teleophobia vs. Overreach.
+### 2) Diagnosis is for leverage, not blame
 
-    Teleophobia: Refusing to see agency where it exists. (Treating a person like a broken machine).
+The only reason to name a pattern is to find the lever that changes it (world / map / goal / constraint / substrate).
 
-    Overreach: Projecting agency where it doesn't exist. (Arguing with a thermostat).
+If you can name the monster but cannot name an intervention hypothesis, you are not diagnosing—you are name‑calling.
 
-    The Balance: Use the "Is It An Agent?" tests in the Frame Lab. Don't guess.
+### 3) The stop rule (hallucination check)
 
-3. The Stop Rule (The Falsifier).
+Frameworks are also monsters: they can capture attention and start “seeing themselves” everywhere.
 
-Never pull a lever if you don't know what "Being Wrong" looks like.
+**The check:** Can you describe what’s happening in plain language, without any Monster Manual terms?
 
-    The Check: Before you intervene, complete this sentence: "I will know I broke it if..."
+**The exit:** If you can’t, put the book down. Come back after contact with reality (sleep, a walk, a different lens, a third‑party view).
 
-    The Exit: If you cannot define failure, you are not allowed to attempt success.
+> **Rule of play:** The map serves the table. The table does not serve the map.
+
 
 ### **1\. What This Book Is For**
 
@@ -236,6 +237,8 @@ The full Frame Lab is an optional DM-facing Ritual Spell. The Minimum Viable Ver
   * Notice **attention** (what gets ignored / rushed past)  
   * Notice **options** (what feels "not possible")  
 * **Stop when:** you have a prediction that changes what you'll notice or do.
+> 🛑 **STOP HERE (most of the time).** If you can name **one prediction** and **one observation**, go run the session. Come back only if reality keeps surprising you.
+
 
 ##### Other Ways to Test
 
@@ -357,7 +360,10 @@ Frames become causally relevant when they couple to shared state and steer contr
 
 #### 4.3 Inscription as Agent
 
-Inscription isn't just mechanism—it exhibits agentic properties. Not conscious goals, but *telonomic* ones: the selection signature of anything that's still around.
+Inscription isn't just mechanism—it exhibits agentic properties.
+
+It “wants” things only in the teleonomic sense that evolution “wants” fitness, markets “want” growth, and addiction “wants” dopamine.
+ Not conscious goals, but *telonomic* ones: the selection signature of anything that's still around.
 
 **What inscription "wants":**
 - **Persist** — remain encoded in substrate
@@ -411,6 +417,9 @@ One-time interventions decay. Changes that persist are changes that get inscribe
 
 ##### Principle 3: Find the Shallow Points
 
+**Intervene where the substrate is still plastic.**
+
+
 Not all inscription is equally deep. Some grooves are fresh. Some substrates are more plastic. Intervention is cheaper there.
 
 **Inscription Depth Ladder:**
@@ -421,11 +430,17 @@ Not all inscription is equally deep. Some grooves are fresh. Some substrates are
 
 ##### Principle 4: Build New Roads
 
+**Make a better path and let the old one starve.**
+
+
 Sometimes easier than repaving old ones. Create alternative paths that outcompete for traffic.
 
 *Example:* Instead of trying to stop a bad meeting habit, create a new meeting format that's more attractive. Let the old format die of neglect.
 
 ##### Principle 5: Don't Argue in a Captured Pivot Space
+
+**Change the pivot space before debating inside it.**
+
 
 If the pivot space itself is captured—if the vocabulary, the metrics, the rituals are all inscribed with the frame you're fighting—you cannot win by arguing within it.
 
