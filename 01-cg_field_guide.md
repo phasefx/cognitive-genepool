@@ -6,6 +6,8 @@ The patterns may be useful. They may be decoration. We genuinely don't know yet.
 **What we need:** People willing to try one tool on one real problem and 
 report what happened—especially if it *didn't* work.
 
+This is not medical or mental-health advice. If you're in crisis, use professional support alongside or instead of this.
+
 # The Cognitive Genepool
 
 *Genes don’t transmit purpose.  
