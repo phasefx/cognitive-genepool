@@ -8,6 +8,10 @@ report what happened—especially if it *didn't* work.
 
 This is not medical or mental-health advice. If you're in crisis, use professional support alongside or instead of this.
 
+**Field Report Template:** Problem → Tool → What you did → What happened → Would you try it again?
+
+For anonymous and/or private feedback: https://forms.gle/DznceviiPkGuU6Uh9
+
 # The Cognitive Genepool
 
 *Genes don’t transmit purpose.  
