@@ -320,10 +320,10 @@ It makes alternatives harder to think.**
 
 ---
 
-## 3. The Six Cognitive Classes  
+## 3. Example (Non-Definitive) Cognitive Classes  
 ### Modes You Can Notice, Invite, and Swap
 
-Each class is a **stabilized cognitive mode**.
+Each class is a **stabilized cognitive mode**. These things are sometimes observed, but they're not "core" or "equal".
 
 > Classes are concurrent control processes, not turns or traits.  
 > Most failures come from suppressing one process for too long.
@@ -336,6 +336,10 @@ The question is which one is currently driving — and what it’s costing you.
 > A class is only allowed if it owns a control function that cannot be subsumed by any existing class under polycomputing.
 > **If removing a class does not create a specific, recurring failure pattern, that class is decorative.**
 > Patterns, values, and constraints are not classes.
+
+Without that sledgehammer, we can make up new classes all day long, and even with it, these things exist on a gradient and there's plenty of space in the gaps. 
+
+> This is not a taxonomy. This is not a personality test. These are lenses that may give you leverage.
 
 **Wizard** — representation / world-model control  (slow System 2)  
 How humans build and trust representations.  
