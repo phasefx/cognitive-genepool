@@ -1,3 +1,11 @@
+## 🚧 STATUS: HYPOTHESIS, NOT VALIDATED
+
+This framework has not been field-tested by anyone other than its authors. 
+The patterns may be useful. They may be decoration. We genuinely don't know yet.
+
+**What we need:** People willing to try one tool on one real problem and 
+report what happened—especially if it *didn't* work.
+
 # The Cognitive Genepool
 
 *Genes don’t transmit purpose.  
