@@ -1,16 +1,12 @@
-## 🚧 STATUS: HYPOTHESIS, NOT VALIDATED
+## ⚠️ THIS IS NOT A SELF-HELP BOOK
 
-This framework has not been field-tested by anyone other than its authors. 
-The patterns may be useful. They may be decoration. We genuinely don't know yet.
+This project was an experiment in following a few assertions to their logical conclusions. 
+It is a thinking artifact, not a toolkit. It has not been tested. It is not intended to be used.
 
-**What we need:** People willing to try one tool on one real problem and 
-report what happened—especially if it *didn't* work.
+If you're here to fix your life, your team, or your brain: **this is not the resource you need.** 
+Try therapy, medication, a trusted friend, or literally anything with evidence behind it.
 
-This is not medical or mental-health advice. If you're in crisis, use professional support alongside or instead of this.
-
-**Field Report Template:** Problem → Tool → What you did → What happened → Would you try it again?
-
-For anonymous and/or private feedback: https://forms.gle/DznceviiPkGuU6Uh9
+If you're here to poke at ideas about agency, cognition, and failure modes as an intellectual exercise: welcome.
 
 # The Cognitive Genepool
 
