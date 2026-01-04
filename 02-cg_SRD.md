@@ -1,3 +1,13 @@
+## ⚠️ THIS IS NOT A SELF-HELP BOOK
+
+This project was an experiment in following a few assertions to their logical conclusions. 
+It is a thinking artifact, not a toolkit. It has not been tested. It is not intended to be used.
+
+If you're here to fix your life, your team, or your brain: **this is not the resource you need.** 
+Try therapy, medication, a trusted friend, or literally anything with evidence behind it.
+
+If you're here to poke at ideas about agency, cognition, and failure modes as an intellectual exercise: welcome.
+
 # The Cognitive Genepool SRD
 
 ## System Reference Document
