@@ -1,12 +1,12 @@
-## ⚠️ THIS IS NOT A SELF-HELP BOOK
+## ⚠️ THIS IS NOT A TOOLKIT
 
-This project was an experiment in following a few assertions to their logical conclusions. 
-It is a thinking artifact, not a toolkit. It has not been tested. It is not intended to be used.
+This started as an experiment in following a few assertions to their logical conclusions. 
+It drifted toward self-help. That was a mistake.
 
-If you're here to fix your life, your team, or your brain: **this is not the resource you need.** 
-Try therapy, medication, a trusted friend, or literally anything with evidence behind it.
+These are thinking artifacts, not interventions. They have not been tested. 
+If you're here to fix something in your life, this is not the resource you need.
 
-If you're here to poke at ideas about agency, cognition, and failure modes as an intellectual exercise: welcome.
+If you're here to poke at weird ideas about cognition and failure modes: welcome to the museum.
 
 # The Cognitive Genepool
 
